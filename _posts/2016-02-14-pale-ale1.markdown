@@ -5,10 +5,14 @@ date:   2016-02-14
 categories: brew
 ambient-temp : 28
 water-temp : 25
+yeast-temp : 27
+brew-status : Fermenting
 ---
 
-Status: Brewing
+Status: Fermenting
 ----------
+
+This is my first ever homebrew hence it being #1. It was made using a [5L pale ale recipe](http://thehopandgrain.com.au/product/5lpalealerecipe/) which although a prepackaged kit still got me to go through the entire process.
 
 Ingredients
 --------
@@ -33,11 +37,17 @@ method
 * Add 180g of the malt extract
 * Bring the liquid to a gentle boil
 * Add first hop packet (Start a timer here)
-* After 50 minutes add the remaining malt extract
-* After 55 minutes add the second hop packet
+* After 50 minutes add the remaining malt extract and the second hop packet
 * After 60 minutes remove from the boil and add to a sink of cold water
 * When the liquid has cooled add to the carboy
 * Make sure the temperature is below 25 degrees
 * Add yeast to carboy
 * Cover the bung and gently invert a few times
 * Add sanitising solution to the airlock and put in the bung
+
+
+updates
+------
+
+* 14-02-2016 21:00 Fermentation has started
+* 15-02-2016 09:00 The temperature was at 27 degrees which is hotter than I wanted it and it's bubbling rapidly. Added some ice to the bath to try and bring the temperature down
