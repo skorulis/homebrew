@@ -1,0 +1,43 @@
+---
+layout: brew
+title:  "Skorubrew Pale ale #1"
+date:   2016-02-14
+categories: brew
+ambient-temp : 28
+water-temp : 25
+---
+
+Status: Brewing
+----------
+
+Ingredients
+--------
+
+* 80g grain
+* 540g malt extract
+* 2x 20g hop pellets packet
+* 1/2 campden tablet
+* 15g sodium percarbonate 
+* 5.5L tap water
+
+method
+-------
+
+* Sterilise pot, carboy, bung and airlock using sodium percarbonate solution
+* Add half a campden tablet to some warm water in a cup and crush
+* Add this solution to 5.5 L of cold water and sit for 10 minutes
+
+* Take 1L of the water and heat to 70 degrees
+* Add grains to the water and cover for 30 minutes
+* Strain out spent grain and add back to the remaining water
+* Add 180g of the malt extract
+* Bring the liquid to a gentle boil
+* Add first hop packet (Start a timer here)
+* After 50 minutes add the remaining malt extract
+* After 55 minutes add the second hop packet
+* After 60 minutes remove from the boil and add to a sink of cold water
+* When the liquid has cooled add to the carboy
+* Make sure the temperature is below 25 degrees
+* Add yeast to carboy
+* Cover the bung and gently invert a few times
+* Add sanitising solution to the airlock and put in the bung
