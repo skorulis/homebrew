@@ -3,16 +3,18 @@ layout: brew
 title:  "Skorubrew Pale ale #1"
 date:   2016-02-14
 categories: brew
+brew-date: 2016-02-14
 ambient-temp : 28
 water-temp : 25
 yeast-temp : 27
 brew-status : Fermenting
 ---
 
-Status: Fermenting
-----------
+After many years of drinking beer I finally decided to take a spill at making it myself so I went out and got myself a 5L brew kit
 
-This is my first ever homebrew hence it being #1. It was made using a [5L pale ale recipe](http://thehopandgrain.com.au/product/5lpalealerecipe/) which although a prepackaged kit still got me to go through the entire process.
+![Homebrew kit contents]({{ site.baseurl }}/assets/IMG_0954.JPG)
+
+For my first ever homebrew I stuck to using a [5L pale ale recipe](http://thehopandgrain.com.au/product/5lpalealerecipe/) which although a prepackaged kit still got me to go through the entire process.
 
 Ingredients
 --------
@@ -36,6 +38,9 @@ method
 * Strain out spent grain and add back to the remaining water
 * Add 180g of the malt extract
 * Bring the liquid to a gentle boil
+
+![Boiling]({{ site.baseurl }}/assets/IMG_0955.JPG)
+
 * Add first hop packet (Start a timer here)
 * After 50 minutes add the remaining malt extract and the second hop packet
 * After 60 minutes remove from the boil and add to a sink of cold water
@@ -46,8 +51,17 @@ method
 * Add sanitising solution to the airlock and put in the bung
 
 
+The colour came out looking a little bit brown and not exactly appetising but I'm hoping that this improves after bottling
+
+![Ready to ferment]({{ site.baseurl }}/assets/IMG_0956.JPG)
+
+It certainly didn't start to look any better once fermentation started
+
+![Fermenting]({{ site.baseurl }}/assets/IMG_0958.JPG)
+
 updates
 ------
 
 * 14-02-2016 21:00 Fermentation has started
 * 15-02-2016 09:00 The temperature was at 27 degrees which is hotter than I wanted it and it's bubbling rapidly. Added some ice to the bath to try and bring the temperature down
+* 16-02-2016 09:00 Fermentation has slowed considerably, adding ice bricks yesterday has pulled the temperature down to 25.
