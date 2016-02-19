@@ -65,3 +65,5 @@ updates
 * 14-02-2016 21:00 Fermentation has started
 * 15-02-2016 09:00 The temperature was at 27 degrees which is hotter than I wanted it and it's bubbling rapidly. Added some ice to the bath to try and bring the temperature down
 * 16-02-2016 09:00 Fermentation has slowed considerably, adding ice bricks yesterday has pulled the temperature down to 25.
+* 16-02-2016 09:00 Temperature holding at 25
+* 19-02-2016 09:00 Temperature is down to 22. Fermentation seems to be complete
