@@ -1,8 +1,15 @@
+{% assign base = '' %}
+{% assign depth = page.url | split: '/' | size | minus: 1 %}
+{% if    depth == 1 %}{% assign base = '.' %}
+{% elsif depth == 2 %}{% assign base = '..' %}
+{% elsif depth == 3 %}{% assign base = '../..' %}
+{% elsif depth == 4 %}{% assign base = '../../..' %}{% endif %}
+
 <header class="site-header">
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/"><img src="assets/logo.png" width="434" /></a>
+    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ base }}/assets/logo.png" width="434" /></a>
 
   </div>
 
