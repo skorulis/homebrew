@@ -3,12 +3,18 @@ layout: brew
 categories: brew
 title:  "Skorubrew #2"
 date:   2016-02-16
-brew-status : Planned
+brew-status : Fermenting
+original-gravity: 1040
+ambient-temp : 28
+water-temp : 25
+yeast-temp : 23
 ---
 
 While #1 is currently fermenting it's time for me to start thinking about #2. I don't yet know what #1 tastes like but I want to start work on a second to hedge my bets in case it turns out bad.
 
 This one is going to be all from scratch, no kits, just all grain malt, hops and yeast. I want it to be pale in colour but with a moderate hop aroma and not too much bitterness.
+
+![Ingredients]({{ site.baseurl }}/assets/IMG_0963.JPG)
 
 Ingredients
 -----
@@ -27,20 +33,36 @@ Things I need to buy
 * Bottle brush
 * Morgan's Lo Suds
 
-* Beer supplies container?
+* Beer supplies container
 * Funnel
 
 Method
 -------
 
-* Heat water to 70 degrees
-* Place malt in a bag and cover for 90 minutes
+* Prepare 6L of campden tablet treated water
+* Heat 4L of water to 70 degrees
+* Place malt in a bag and cover for 60 minutes
 * Take out the malt bag and allow to drip
-* Heat mash to 98 degrees and start timer
-* After 10 minutes add mosaic hops
-* After 50 minutes add 5g amarillo hops
+* Pour the remaining 2L @75C of water over the closed bag
+* Heat mash to 100 degrees and start timer
+* Sanitise fermenters
+* Add cascade hops
+* At flameout add 5g citra hops
 * After 60 minutes remove from the heat and chill
 * While chilling create a whirlpool to concentrate the particulate in the centre of the kettle
 * After chilling transfer to the carboy
-* Add yeast and the second 5g of amarillo
 * Wait for fermentation
+* Once fermentation has settled down add 5g of citra to dry hop
+
+Brewday 01-03-2016
+--------
+
+* Got my mash water to 70C and turned the stove top off but left it in place. After adding the malt the temp was still at 70C
+* After 1 hour the mash temp was still at 68C which is nice
+* Sparge water was at around 70C which was ok
+* Boiling temp was at 98C with the lid covering. I tried to pour off the water on the lid a few times to get rid of DMS
+* Original gravity came out at 1.040 which was slightly lower than expected but not too bad
+* The whole thing smells like really strong hops but tastes more bitter than hoppy
+* The colour as well is nice and light even though it's cloudy
+* Seems like a big improvement over #1
+
