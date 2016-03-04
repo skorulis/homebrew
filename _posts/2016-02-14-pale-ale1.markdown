@@ -4,6 +4,7 @@ title:  "Skorubrew Pale ale #1"
 date:   2016-02-14
 categories: brew
 brew-date: 2016-02-14
+bottle-date: 2016-02-29
 ambient-temp : 28
 water-temp : 25
 yeast-temp : 27
@@ -75,7 +76,7 @@ The beer tasted a little bit sour and lacking much malt or hop flavour. I'm thin
 ![Bottled]({{ site.baseurl }}/assets/IMG_1069.JPG)
 
 
-updates
+Updates
 ------
 
 * 14-02-2016 21:00 Fermentation has started

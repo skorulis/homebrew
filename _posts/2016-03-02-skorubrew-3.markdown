@@ -1,0 +1,15 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #3"
+date:   2016-03-02
+brew-status : Planned
+---
+
+Now that #2 is in the fermenter it's time to think about #3. I've got a 3 week holiday planned so there's going to be a pretty big gap between brews so this may change radically once I taste #1 & #2.
+
+My plan so far is to pretty much do a copy of #2 with some minor changes:
+
+1. Add flaked oats to see how that turns out
+1. Adjust the hops based on how #2 tastes. Probably put the bittering hops in a little later
+1. I'm also going to get some pH strips and potentially drop it down since I feel it might be too high currently

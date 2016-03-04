@@ -3,6 +3,7 @@ layout: brew
 categories: brew
 title:  "Skorubrew #2"
 date:   2016-02-16
+brew-date: 2016-03-01
 brew-status : Fermenting
 original-gravity: 1040
 ambient-temp : 28
@@ -65,4 +66,9 @@ Brewday 01-03-2016
 * The whole thing smells like really strong hops but tastes more bitter than hoppy
 * The colour as well is nice and light even though it's cloudy
 * Seems like a big improvement over #1
+
+Updates
+-------
+
+* 02-03-2016 08:00 Fermentation has started. Temp at 25C
 
