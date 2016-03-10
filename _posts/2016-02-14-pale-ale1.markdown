@@ -9,7 +9,8 @@ ambient-temp : 28
 water-temp : 25
 yeast-temp : 27
 final-gravity: 1020
-brew-status : Bottled
+brew-status : Ready
+bottles-remaining: 11
 ---
 
 After many years of drinking beer I finally decided to take a spill at making it myself so I went out and got myself a 5L brew kit
@@ -74,6 +75,11 @@ The beer tasted a little bit sour and lacking much malt or hop flavour. I'm thin
 
 
 ![Bottled]({{ site.baseurl }}/assets/IMG_1069.JPG)
+
+Tasting
+--------
+
+* Opened my first bottle on 07-03-2016 and it wasn't as bad as I thought. It smells better than when bottled but still has a slight sour/cider smell. Luckily this doesn't affect the taste much. The malt flavour is a bit strong for my liking and there's very little hop profile is missing. It's a little more bitter than I would like but it's not too bad.
 
 
 Updates

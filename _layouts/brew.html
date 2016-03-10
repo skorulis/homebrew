@@ -7,7 +7,9 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title }} <span class="{{ page.brew-status }}">( {{ page.brew-status }} )</span></h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
     
+    {% if page.ambient-temp != null %}
     &#127777;{{ page.ambient-temp }}&#176; &#128167;{{ page.water-temp }}&#176;
+    {% endif %}
     
   </header>
 
