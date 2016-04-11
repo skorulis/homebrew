@@ -6,7 +6,11 @@ date:   2016-03-02
 ambient-temp : 29
 water-temp : 25
 yeast-temp : 25
-brew-status : Fermenting
+brew-status : Bottled
+original-gravity: 1053
+final-gravity: 1018
+alcohol-level: 4.6%
+bottles-remaining: 11
 ---
 
 #3 is going to be done very similar to #2 just with the addition of oats and slightly later hop additions.
@@ -23,7 +27,8 @@ Ingredients
 * Maris otter Malt 1kg
 * Quick oats 100g
 * Citra hops 5g @ flameout
-* Citra hops 7g dry hop
+* Citra hops 5g dry hop
+* Cascade hops 5g dry hop
 * Cascade hops 5g @ 50 minutes
 * Safale american ale yeast (US-05)
 
@@ -44,7 +49,7 @@ Method
 * After chilling transfer to the carboy
 * Wait for fermentation
 * Leave in the fermenter for 4 weeks
-* Once fermentation has settled down add 5g of citra to dry hop
+* Once fermentation has settled down add 5g of citra and 5g cascade to dry hop
 
 Brewday 12-03-2016
 --------
@@ -58,7 +63,17 @@ Brewday 12-03-2016
 
 ![So much trub]({{ site.baseurl }}/assets/IMG_1110.JPG)
 
+Bottling 10-04-2016
+-------------------
+
+Having the loose hops made it difficult to prevent gunk ending up in the bottles, don't think I'll try that again. The beer again tastes a bit green and less hoppy than I was expecting. I thought the extra time fermenting would have reduced the greeness and the 10g of hops would have added more of a hop smell. The oats seem to have given it a more syrupy texture leading me to think that this will end up being a smooth easy drinking beer.
+
+![Bottled]({{ site.baseurl }}/assets/IMG_0001.JPG)
+
 Updates
 -------
 
-* 13-03-2016 9:00 Fermentation has started. The yeast activity has stirred things up and it looks like brown sludge. Temp at 24C
+* 13-03-2016 09:00 Fermentation has started. The yeast activity has stirred things up and it looks like brown sludge. Temp at 24C
+* 15-03-2016 01:30 Fermentation appears to have stopped
+* 07-04-2016 09:30 Got back from holidays and the beer is looking very dark. Not sure what's happened while I was away
+* 07-04-2016 10:30 Dumped in my dry hops. This time just with the pellets directly into the fermenter. The pellets dissolved quite quickly but remained floating on top

@@ -11,7 +11,7 @@ alcohol-level: 3.4
 ambient-temp : 28
 water-temp : 25
 yeast-temp : 23
-bottles-remaining: 12
+bottles-remaining: 6
 ---
 
 While #1 is currently fermenting it's time for me to start thinking about #2. I don't yet know what #1 tastes like but I want to start work on a second to hedge my bets in case it turns out bad.
