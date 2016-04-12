@@ -5,7 +5,7 @@ title:  "Skorubrew #4"
 date:   2016-04-11
 ambient-temp : 28
 yeast-temp : 16
-brew-status : Brewing
+brew-status : Fermenting
 original-gravity: 1.058
 ---
 

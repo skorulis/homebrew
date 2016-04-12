@@ -4,7 +4,7 @@ categories: brew
 title:  "Skorubrew #2"
 date:   2016-02-16
 brew-date: 2016-03-01
-brew-status : Bottled
+brew-status : Ready
 original-gravity: 1040
 final-gravity: 1014
 alcohol-level: 3.4
