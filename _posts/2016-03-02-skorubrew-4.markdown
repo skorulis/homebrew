@@ -49,7 +49,7 @@ Brewday 11-04-2016
 * My crappy stick on thermometer is making it really hard to see the temperature. I think the yeast went in at 16C but it could be as high as 26C.
 * This time I only used half a packet of yeast. I hope this will make it smell less yeasty at the end and also make my yeast go further
 
-![So dark compared to my previous brews]({{ site.baseurl }}/assets/IMG_0013.JPG)
+![So dark compared to my previous brews]({{ site.baseurl }}/assets/IMG_0013.jpg)
 
 
 Updates
