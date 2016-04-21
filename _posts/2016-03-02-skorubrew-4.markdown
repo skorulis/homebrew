@@ -19,7 +19,6 @@ Ingredients
 * Chocolate malt 100g
 * Citra hops 7g @ flameout
 * Citra hops 5g dry hop
-* Cascade hops 5g dry hop
 * Cascade hops 5g @ 50 minutes
 * Safale american ale yeast (US-05)
 
@@ -56,3 +55,6 @@ Brewday 11-04-2016
 Updates
 -------
 
+* 12-04-2016 10:30 Fermentation seems to be going very slowly. Could be the cooler temperatures or only using half the amount of yeast. Will have to wait and see
+* 13-04-2016 08:00 Fermentation is bubbling along quickly. Still having trouble accurately reading the temperature
+* 18-04-2016 18:00 Fermentation has slowed considerably. Added 5g of citra as a dry hop. Has a definitely stouty flavour though I wouldn't consider it a nice beer at this point. The refractometer reading was 1.034 (8.5 brix) which would be a current gravity of 1.019 which would be probably what I expect as a final gravity giving it a current ABV of 5.12%

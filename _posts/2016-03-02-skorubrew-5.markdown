@@ -1,0 +1,15 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #5"
+date:   2016-04-15
+brew-status : Planned
+---
+
+I'm tossing up which direction to go with #5. I want to stay away from dark beers until I get a taste of #4 in a few weeks so I'm going to go back to recipe #3 with some minor changes. I was originally planning to add some honey into a beer but after reading up on it I don't think I'll get the flavour I'm after. Now I'm considering using a belgian yeast to give the beer a completely different flavour. The problem with this is that I would need to move to liquid yeast which is more expensive, more difficult to deal with and more difficult to find. Perhaps I'm not ready yet for liquid yeasts.
+
+As I think more on it I'm considering an almost exact clone of #3. Since #3 spent a long time in the fermenter it may have changed the taste somewhat so it would be interesting to see how the same recipe would come out with my normal fermentation schedule. I could perhaps add a cinnamon stick into the boil to try and make a spiced pale ale.
+
+Forget all that, just found http://mangrovejacks.com/products/belgian-ale-yeast-10g. Interested to see how #3 would taste if brewed with a belgian dry yeast. Hoping for something interesting out of my first belgian pale ale
+
+I think I also need to find a better way to get the temperature of my fermenter, my little temp strip doesn't seem that accurate when it's half submerged in ice water.
