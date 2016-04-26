@@ -3,13 +3,60 @@ layout: brew
 categories: brew
 title:  "Skorubrew #5"
 date:   2016-04-15
-brew-status : Planned
+brewday: 2016-04-24
+ambient-temp : 24
+yeast-temp : 20
+original-gravity: 1.058
+brew-status : Fermenting
 ---
 
-I'm tossing up which direction to go with #5. I want to stay away from dark beers until I get a taste of #4 in a few weeks so I'm going to go back to recipe #3 with some minor changes. I was originally planning to add some honey into a beer but after reading up on it I don't think I'll get the flavour I'm after. Now I'm considering using a belgian yeast to give the beer a completely different flavour. The problem with this is that I would need to move to liquid yeast which is more expensive, more difficult to deal with and more difficult to find. Perhaps I'm not ready yet for liquid yeasts.
+After tossing up between using honey, making another dark beer and using a different yeast I landed on using a Belgian yeast to make a Belgian pale ale. After some advice from my LHBS I decided to add 300g of Vienna malt into the #3 recipe. 
 
-As I think more on it I'm considering an almost exact clone of #3. Since #3 spent a long time in the fermenter it may have changed the taste somewhat so it would be interesting to see how the same recipe would come out with my normal fermentation schedule. I could perhaps add a cinnamon stick into the boil to try and make a spiced pale ale.
+Ingredients
+-----
 
-Forget all that, just found http://mangrovejacks.com/products/belgian-ale-yeast-10g. Interested to see how #3 would taste if brewed with a belgian dry yeast. Hoping for something interesting out of my first belgian pale ale
+* Maris otter Malt 1kg
+* Vienna malt 300g
+* Quick oats 150g
+* Cascade hops 5g @ 50 minutes
+* Cascade hops 5g @ flameout
+* Citra hops 5g @ flameout
+* Citra hops 5g dry hop
+* Cascade hops 5g dry hop
+* Mangrove Jacks Belgian yeast M27
 
-I think I also need to find a better way to get the temperature of my fermenter, my little temp strip doesn't seem that accurate when it's half submerged in ice water.
+Method
+-------
+
+* Prepare 6.5L of campden tablet treated water
+* Heat 4L of water to 70 degrees
+* Cook oats separately in the microwave so they don't clump when added to the mash
+* Slowly add the malt into the bag while stirring to prevent clumping
+* Cover for 60 minutes
+* Take out the malt bag and allow to drip
+* Pour the remaining 2L @75C of water over the closed bag
+* Heat mash to 100 degrees and start timer
+* Sanitise fermenter
+* After 10 minutes hops
+* After 60 minutes remove from the heat and chill
+* Add flameout hops
+* While chilling create a whirlpool to concentrate the particulate in the centre of the kettle
+* After chilling transfer to the carboy
+* Wait for fermentation
+* Leave in the fermenter until fermentation settles down
+* Once fermentation has settled down add dry hops
+* Wait 3 days
+
+Brewday 24-04-2016
+----------
+
+* Gradually pouring in the grain prevented in clumping quite well.
+* Forgot to take out 2L of water so I guess this is a full volume BIAB. Ended up pouring some more cold water to get a bit more out of the grain
+* Ended up adding cascade hops at flameout as I probably need to use them faster
+* OG came in much lower than expected at 1.058 (14 Brix). Guessing the full volume BIAB wasn't good for efficiency
+* My volumes this time were spot on. Probably helped covering the kettle as it cooled so not as much water could escape
+
+Updates
+-------
+* 24-04-2016 23:00 Fermentation has already started. Much faster than with US-05. Hopefully it doesn't bubble over during the night
+* 26-04-2016 10:15 Fermentation has slowed. Temp is 24C. Currently looking very bright yellow
