@@ -1,0 +1,24 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #6"
+date:   2016-04-26
+brew-status : Planned
+---
+
+Still deciding exactly what to do on this one.
+
+Ingredients
+-----
+
+
+Method
+-------
+
+
+Brewday 
+----------
+
+
+Updates
+-------
