@@ -60,3 +60,4 @@ Updates
 -------
 * 24-04-2016 23:00 Fermentation has already started. Much faster than with US-05. Hopefully it doesn't bubble over during the night
 * 26-04-2016 10:15 Fermentation has slowed. Temp is 24C. Currently looking very bright yellow
+* 05-05-2016 20:30 Added the dry hops and 6 marbles. Took a reading and got 6 brix which would be 6.36% alcohol which is higher than expected. Not sure if that reading was correct. When I took the carboy out of the cupboard it looked like it had stopped fermenting but the agitation seemed to kick it off again. Smelled a bit yeasty but in a more Belgian way. This yeast may need more time to condition than US05

@@ -6,10 +6,13 @@ date:   2016-04-26
 brew-status : Planned
 ---
 
-Still deciding exactly what to do on this one.
+Still deciding exactly what to do on this one. I've got my grain already and am thinking of doing a #3 clone with cinnamon
 
 Ingredients
 -----
+
+* Maris otter Malt 1kg
+* Quick oats 100g
 
 
 Method
