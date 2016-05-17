@@ -1,25 +1,26 @@
 ---
 layout: brew
 categories: brew
-title:  "Skorubrew #6"
-date:   2016-04-26
+title:  "Skorubrew #7"
+date:   2016-05-16
 brew-status : Fermenting
-brewday: 2016-05-07
-original-gravity: 1.059
-yeast-temp : 15
+brewday: 2016-05-16
+original-gravity: 1.065
+yeast-temp : 17
 ---
 
-Still deciding exactly what to do on this one. I've got my grain already and am thinking of doing something similar to #3 but with more oats and hops to make a stronger hoppier beer. This could be the first beer that I call an IPA.
+I've already got my malt for this but I'm thinking of adding the juice from an Apple to make this a Toffee Apple Ale
 
 Ingredients
 -----
 
 * Maris otter Malt 1kg
 * Quick oats 150g
-* Brown sugar 50g
-* Cascade hops 10g
-* Citra hops 25g
+* Toffee Malt 200g
+* Juice from 2 apples
 * Half packet of US-05 Yeast
+* 10g cascade
+* 5g citra
 
 Method
 -------
@@ -31,13 +32,10 @@ Method
 * Cover for 60 minutes
 * Take out the malt bag and allow to drip
 * Pour the remaining 2L @75C of water over the closed bag
-* Add brown sugar
 * Heat mash to 100 degrees and start timer
 * Sanitise fermenter
-* After 10 minutes add 5g cascade
-* After 30 minutes add 5g cascade
-* After 50 minutes add 5g citra
 * After 60 minutes remove from the heat and chill
+* Add Apple juice
 * Add flameout hops (10g citra)
 * After chilling transfer to the carboy
 * Wait for fermentation
@@ -45,14 +43,18 @@ Method
 * Once fermentation has settled down add dry hops (10g citra)
 * Wait 3 days
 
+Hop Schedule
+-------------
 
-Brewday 07-05-2016
+* 5g cascade @ 10 minutes
+* 5g cascade @ 55 minutes
+* 5g citra dry hop
+
+Brewday 16-05-2016
 ----------
 
-* Forgot to put the flameout hops in until the wort had almost completely cooled. Almost as if I've put in some very early dry hops. Oops
-* Gravity reading was 1.059 (14.2 brix)
+* Getting the juice out of apples was harder than expected so I didn't really put much in and am not sure how much effect it's going to have
+* Gravity reading was 1.065 (16 brix)
 
 Updates
 -------
-
-* Did a 10g citra dry hop on 2016-05-16 
