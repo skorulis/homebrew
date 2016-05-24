@@ -5,11 +5,11 @@ title:  "Skorubrew #4"
 date:   2016-04-11
 ambient-temp : 28
 yeast-temp : 16
-brew-status : Bottled
+brew-status : Ready
 original-gravity: 1.058
 original-gravity: 1.017
 alcohol-level: 5.4%
-bottles-remaining: 12
+bottles-made: 12
 ---
 
  #4 is once again not going to be much of a change. The main difference from #3 is going to be the addition of chocolate malt to make it more of a stout than a pale ale. Though since the rest of the beer is the same I'm not sure how much difference this will make

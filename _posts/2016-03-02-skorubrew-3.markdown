@@ -6,11 +6,10 @@ date:   2016-03-02
 ambient-temp : 29
 water-temp : 25
 yeast-temp : 25
-brew-status : Bottled
+brew-status : Ready
 original-gravity: 1053
 final-gravity: 1018
 alcohol-level: 4.6%
-bottles-remaining: 11
 ---
 
 #3 is going to be done very similar to #2 just with the addition of oats and slightly later hop additions.

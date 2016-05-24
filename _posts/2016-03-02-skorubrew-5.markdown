@@ -7,7 +7,7 @@ brewday: 2016-04-24
 ambient-temp : 24
 yeast-temp : 20
 original-gravity: 1.058
-brew-status : Bottled
+brew-status : Ready
 ---
 
 After tossing up between using honey, making another dark beer and using a different yeast I landed on using a Belgian yeast to make a Belgian pale ale. After some advice from my LHBS I decided to add 300g of Vienna malt into the #3 recipe. 

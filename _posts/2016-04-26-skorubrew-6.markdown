@@ -3,9 +3,11 @@ layout: brew
 categories: brew
 title:  "Skorubrew #6"
 date:   2016-04-26
-brew-status : Fermenting
+brew-status : Bottled
 brewday: 2016-05-07
+bottled: 2016-05-23
 original-gravity: 1.059
+final-gravity: 1.015
 yeast-temp : 15
 ---
 
@@ -52,7 +54,14 @@ Brewday 07-05-2016
 * Forgot to put the flameout hops in until the wort had almost completely cooled. Almost as if I've put in some very early dry hops. Oops
 * Gravity reading was 1.059 (14.2 brix)
 
+Bottling 23-05-2016
+----------
+
+* Refractometer reading was 8 brix which means the FG is 1.015 making this a 5.8% beer
+* The smell coming off this while bottling was amazing. Really strong citrus and apple. Can't wait to taste it
+* Sadly there was only enough for 10.5 bottles. Going to add more water to the next batch to get an extra bottle
+
 Updates
 -------
 
-* Did a 10g citra dry hop on 2016-05-16 
+* 16-05-2016 19:00 Did a 10g citra dry hop on 2016-05-16 
