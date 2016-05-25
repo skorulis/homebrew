@@ -1,0 +1,9 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #8"
+date:   2016-05-25
+brew-status : Planned
+---
+
+This is definitely going to be another stout since I've gotten quite a lot of interest there. Thinking of making this a chocolate milk stout.

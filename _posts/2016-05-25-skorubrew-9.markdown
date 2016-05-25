@@ -1,0 +1,9 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #9"
+date:   2016-05-25
+brew-status : Planned
+---
+
+Going to be pretty much a clone of #3 since everyone seemed to enjoy that particular beer. Will be interesting to see if #3 being left in the fermenter for a long time contributed to it being so clear and tasty

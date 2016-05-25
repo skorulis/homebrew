@@ -9,6 +9,7 @@ bottled: 2016-05-23
 original-gravity: 1.059
 final-gravity: 1.015
 yeast-temp : 15
+total-bottles: 10.5
 ---
 
 Still deciding exactly what to do on this one. I've got my grain already and am thinking of doing something similar to #3 but with more oats and hops to make a stronger hoppier beer. This could be the first beer that I call an IPA.
