@@ -2,10 +2,11 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #6"
+style: IPA
 date:   2016-04-26
 brew-status : Bottled
-brewday: 2016-05-07
-bottled: 2016-05-23
+brew-date: 2016-05-07
+bottle-date: 2016-05-23
 original-gravity: 1.059
 final-gravity: 1.015
 yeast-temp : 15

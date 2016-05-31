@@ -4,15 +4,20 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      	{% if post.brew-date %}
+					<span class="post-meta">Brewed: {{ post.brew-date | date: "%b %-d, %Y" }} </span>
+      	{% endif %}
+        {% if post.bottle-date %}
+        	<br/><span class="post-meta">Bottled: {{ post.bottle-date | date: "%b %-d, %Y" }}</span>
+        {% endif %}
+        
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span class="status {{ post.brew-status }} ">{{ post.brew-status }} </span></a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} {{ post.style }}  <span class="status {{ post.brew-status }} ">{{ post.brew-status }} </span></a>
+
         </h2>
       </li>
     {% endfor %}

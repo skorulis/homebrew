@@ -2,14 +2,18 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #3"
+style: Pale ale
 date:   2016-03-02
+brew-date: 2016-03-12
+bottle-date: 2016-04-10
 ambient-temp : 29
 water-temp : 25
 yeast-temp : 25
-brew-status : Ready
+brew-status : Finished
 original-gravity: 1053
 final-gravity: 1018
 alcohol-level: 4.6%
+rating: 7
 ---
 
 #3 is going to be done very similar to #2 just with the addition of oats and slightly later hop additions.
@@ -68,6 +72,13 @@ Bottling 10-04-2016
 Having the loose hops made it difficult to prevent gunk ending up in the bottles, don't think I'll try that again. The beer again tastes a bit green and less hoppy than I was expecting. I thought the extra time fermenting would have reduced the greeness and the 10g of hops would have added more of a hop smell. The oats seem to have given it a more syrupy texture leading me to think that this will end up being a smooth easy drinking beer.
 
 ![Bottled]({{ site.baseurl }}/assets/IMG_0001.jpg)
+
+Tasting {{ page.rating }} /10
+--------
+
+Pretty good all round. Has a nice sweetness which balances well against the slight citrus hop profile 
+
+![Tasting]({{ site.baseurl }}/assets/skorubrew3.jpg)
 
 Updates
 -------

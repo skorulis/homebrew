@@ -2,9 +2,10 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #7"
+style: Toffee apple ale
 date:   2016-05-16
 brew-status : Fermenting
-brewday: 2016-05-16
+brew-date: 2016-05-16
 original-gravity: 1.065
 yeast-temp : 17
 ---

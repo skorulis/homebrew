@@ -2,8 +2,10 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #5"
+style: Belgian pale ale
 date:   2016-04-15
-brewday: 2016-04-24
+brew-date: 2016-04-24
+bottle-date: 2016-05-11
 ambient-temp : 24
 yeast-temp : 20
 original-gravity: 1.058

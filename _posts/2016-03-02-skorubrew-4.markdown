@@ -2,7 +2,10 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #4"
+style: Stout
 date:   2016-04-11
+brew-date: 2016-04-11
+bottle-date: 2016-04-22
 ambient-temp : 28
 yeast-temp : 16
 brew-status : Ready
@@ -10,6 +13,7 @@ original-gravity: 1.058
 original-gravity: 1.017
 alcohol-level: 5.4%
 bottles-made: 12
+rating: 6
 ---
 
  #4 is once again not going to be much of a change. The main difference from #3 is going to be the addition of chocolate malt to make it more of a stout than a pale ale. Though since the rest of the beer is the same I'm not sure how much difference this will make
@@ -60,6 +64,14 @@ Bottling 22-04-2016
 
 * Bubbles still seemed to be going and the FG had dropped to 1.017 but I decided to bottle anyway and just leave some extra headspace.
 * It definitely tastes and smells like a stout. There's a roasted taste in there and no yeast smell. Very little hop aroma or taste which is fine for what this beer is supposed to be.
+
+Tasting {{ page.rating }} /10
+--------
+
+Has a yeasty and hoppy smell like my other beers but with a mild stout smell. The stout taste is milder than when I bottled it. To me it’s a great because it doesn’t have the kick like other stouts but this may disappoint those who look for that in a stout
+
+![Tasting]({{ site.baseurl }}/assets/skorubrew4.jpg)
+
 
 
 Updates

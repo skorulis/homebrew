@@ -2,16 +2,18 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #2"
+style: Pale ale
 date:   2016-02-16
 brew-date: 2016-03-01
-brew-status : Ready
+bottle-date: 2016-03-10
+brew-status : Finished
 original-gravity: 1040
 final-gravity: 1014
 alcohol-level: 3.4
 ambient-temp : 28
 water-temp : 25
 yeast-temp : 23
-bottles-remaining: 6
+rating: 6
 ---
 
 While #1 is currently fermenting it's time for me to start thinking about #2. I don't yet know what #1 tastes like but I want to start work on a second to hedge my bets in case it turns out bad.
@@ -80,6 +82,13 @@ This is the first time I've been able to calculate the alcohol percentage which 
 The beer has a slightly sour taste similar to #1 but it's not nearly as strong and overall the taste now isn't bad which given how much the first improved I'm hoping this will end up as a decent beer. You can really smell the citra hops but it's not as hoppy of a beer as I had hoped. I put this down to the dry hop bag floating, next time I think I'll just throw the hops in.
 
 ![Ready to bottle]({{ site.baseurl }}/assets/IMG_1100.JPG)
+
+Tasting {{ page.rating }} /10
+--------
+
+Has a bit of a yeasty smell but it’s covered up a bit by a mild hop aroma. Low on bitterness with a bit of sweetness and not too malty. All round quite drinkable
+
+![Tasting]({{ site.baseurl }}/assets/skorubrew2.jpg)
 
 Updates
 -------
