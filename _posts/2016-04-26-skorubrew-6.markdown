@@ -63,6 +63,8 @@ Bottling 23-05-2016
 * The smell coming off this while bottling was amazing. Really strong citrus and apple. Can't wait to taste it
 * Sadly there was only enough for 10.5 bottles. Going to add more water to the next batch to get an extra bottle
 
+![Bottled]({{ site.baseurl }}/assets/bottled-6.jpg)
+
 Updates
 -------
 

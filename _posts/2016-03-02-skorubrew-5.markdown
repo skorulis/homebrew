@@ -64,6 +64,8 @@ Bottling 11-05-2016
 * Reading was 6.1 brix meaning the FG is 1.010 and the alcohol will be 6.4% after bottling
 * The smell at this stage is amazing but the taste seems a little off. It definitely has a belgian tinge but has a strong alcohol taste. Has a nice aftertaste though. Will have to wait and see how this turns out
 
+![Bottled]({{ site.baseurl }}/assets/bottled-5.jpg)
+
 Updates
 -------
 * 24-04-2016 23:00 Fermentation has already started. Much faster than with US-05. Hopefully it doesn't bubble over during the night

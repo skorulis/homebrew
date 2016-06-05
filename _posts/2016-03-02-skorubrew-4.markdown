@@ -65,6 +65,8 @@ Bottling 22-04-2016
 * Bubbles still seemed to be going and the FG had dropped to 1.017 but I decided to bottle anyway and just leave some extra headspace.
 * It definitely tastes and smells like a stout. There's a roasted taste in there and no yeast smell. Very little hop aroma or taste which is fine for what this beer is supposed to be.
 
+![Bottled]({{ site.baseurl }}/assets/bottled-4.jpg)
+
 Tasting {{ page.rating }} /10
 --------
 
