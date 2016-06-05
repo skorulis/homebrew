@@ -4,9 +4,12 @@ categories: brew
 title:  "Skorubrew #7"
 style: Toffee apple ale
 date:   2016-05-16
-brew-status : Fermenting
+brew-status : Bottled
 brew-date: 2016-05-16
+bottle-date: 2016-06-05
 original-gravity: 1.065
+final-gravity: 1.015
+alcohol-pct: 6.6%
 yeast-temp : 17
 ---
 
@@ -57,7 +60,14 @@ Brewday 16-05-2016
 * Getting the juice out of apples was harder than expected so I didn't really put much in and am not sure how much effect it's going to have
 * Gravity reading was 1.065 (16 brix)
 
+Bottling 05-06-2016
+---------
+
+* Tried a new filter. Seemed to filter well but took too long to strain
+* Refractometer reading was 8.7 brix
+
 Updates
 -------
 
 * 18-05-2016 05:00 Fermentation was going so strong I could hear it in the other room. Temp was at 25 so I put some ice bricks in
+* 02-06-2016 10:00 Added 5g citra dry hop. The beer smells fruity
