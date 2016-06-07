@@ -18,7 +18,7 @@ After many years of drinking beer I finally decided to take a spin at making it 
 
 ![Homebrew kit contents]({{ site.baseurl }}/assets/IMG_0954.JPG)
 
-For my first ever homebrew I stuck to using a [5L pale ale recipe](http://thehopandgrain.com.au/product/5lpalealerecipe/) which although a prepackaged kit still got me to go through the entire process.
+For my first ever homebrew I stuck to using a [5L pale ale recipe](http://www.thehopandgrain.com.au/product/5l-pale-ale-extract-recipe/) which although a prepackaged kit still got me to go through the entire process.
 
 Ingredients
 --------
