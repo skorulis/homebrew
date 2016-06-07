@@ -1,0 +1,19 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #10"
+style: Cider
+date:   2016-06-07
+brew-status : Planned
+---
+
+Going to give beer a break and try my hand at brewing a cider based on [this recipe](http://www.thehopandgrain.com.au/brew-simple-5l-apple-pear-cider/) with the addition of some passionfruit
+
+Ingredients
+---------
+
+* 3L Apple juice
+* 850ml Pear juice
+* 1 tin of passionfruit syrup/pulp
+* 250g lactose
+* Cider yeast
