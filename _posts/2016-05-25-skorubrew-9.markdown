@@ -45,3 +45,5 @@ Brewday 29-05-2016
 * Tried a new method of squeezing the bag by putting it in a colander and pushing down with a bowl. Much less messy but not sure if it gets the same efficiency as using my hands.
 * Put the lactose in with about 20 minutes left on the boil
 * Gravity came in at lower than 3 despite the addition of more ingredients
+
+![Brewday]({{ site.baseurl }}/assets/brewday-9.JPG)
