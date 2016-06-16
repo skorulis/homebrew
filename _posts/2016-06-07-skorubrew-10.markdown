@@ -4,7 +4,11 @@ categories: brew
 title:  "Skorubrew #10"
 style: Cider
 date:   2016-06-07
-brew-status : Planned
+brew-date: 2016-06-16
+original-gravity: 1.053
+original-brix: 13
+yeast-temp : 19
+brew-status : Fermenting
 ---
 
 Going to give beer a break and try my hand at brewing a cider based on [this recipe](http://www.thehopandgrain.com.au/brew-simple-5l-apple-pear-cider/) with the addition of some passionfruit
@@ -12,8 +16,27 @@ Going to give beer a break and try my hand at brewing a cider based on [this rec
 Ingredients
 ---------
 
-* 3L Apple juice
-* 850ml Pear juice
+* 4L Apple juice
 * 1 tin of passionfruit syrup/pulp
-* 250g lactose
-* Cider yeast
+* 100g lactose
+* 250ml berry tea
+* half packet US-05 yeast
+
+![Ingredients]({{ site.baseurl }}/assets/ingredients-10.jpg)
+
+
+Method
+--------
+
+* Steep the tea bag for 10 minutes in boiling water
+* Strained the passionfruit to get rid of the seeds and pulp
+* Add all ingredients into the fermenter
+* Add yeast
+* Shake
+* Leave to ferment
+
+
+Brewday 16-06-2016
+----------
+
+So much faster and easier than making beer. The whole process took less than an hour
