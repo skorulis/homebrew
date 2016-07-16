@@ -40,3 +40,6 @@ Brewday 16-06-2016
 ----------
 
 So much faster and easier than making beer. The whole process took less than an hour
+
+
+![Brewday]({{ site.baseurl }}/assets/brewday-10.jpg)

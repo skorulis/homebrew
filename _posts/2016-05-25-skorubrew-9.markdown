@@ -4,10 +4,13 @@ categories: brew
 title:  "Skorubrew #9"
 style: Pale ale
 date:   2016-05-25
+brew-date: 2016-05-29
+bottle-date: 2016-07-04
 brew-status : Fermenting
-brew-date: 2016-06-07
 original-gravity: 1.052
 original-brix: 13
+final-gravity: 1.018
+alcohol-pct: 4.5%
 yeast-temp : 22
 ---
 
@@ -47,3 +50,16 @@ Brewday 29-05-2016
 * Gravity came in at lower than 3 despite the addition of more ingredients
 
 ![Brewday]({{ site.baseurl }}/assets/brewday-9.JPG)
+
+Bottling 04-07-2016
+-------------
+
+* Final reading of 8 brix
+* Smells and tastes pretty good
+
+![Bottled]({{ site.baseurl }}/assets/bottled-9.jpg)
+
+Updates
+-------
+
+* 01-07-2016 17:00 Was about to bottle when I realised I hadn't even done a dry hop yet. Added 5g citra with the plan of bottling on monday
