@@ -1,0 +1,50 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #13"
+style: Rice beer
+date: 2016-10-17
+brew-date: 2016-10-18
+bottle-date:
+brew-status : Fermenting
+original-gravity: 1.040
+original-brix: 10
+final-gravity:
+alcohol-pct:
+yeast-temp : 23
+---
+
+A bit of a random beer to get back into it. Going to try putting rice in the beer to see how that goes.
+
+
+Ingredients
+-----
+
+* Maris otter 900g
+* White rice 200g
+
+Method
+-------
+
+* Mash at 70C for 1 hour
+* Batch sparge with water 70-75C
+
+Hop Schedule
+-------------
+
+* 6g Mosaic at 10 minute intervals starting at 50 minutes
+* 5g Galaxy dry hop
+
+
+
+Brewday 18-10-2016
+----------
+
+* Forgot to split my water out. Going to try to use the mash water as sparge. Could even work better than what I normally do. 
+* Decided to try putting a single hop in at 10 minute intervals to hopefully get a more rounded hop flavour
+
+Bottling XX-XX-2016
+-------------
+
+Updates
+-------

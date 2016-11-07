@@ -8,7 +8,7 @@ brew-date: 2016-06-16
 original-gravity: 1.053
 original-brix: 13
 yeast-temp : 19
-brew-status : Fermenting
+brew-status : Bottled
 ---
 
 Going to give beer a break and try my hand at brewing a cider based on [this recipe](http://www.thehopandgrain.com.au/brew-simple-5l-apple-pear-cider/) with the addition of some passionfruit

@@ -4,7 +4,7 @@ categories: brew
 title:  "Skorubrew #12"
 style: Spiced ale
 date:   2016-06-21
-brew-status : Planned
+brew-status : Bottled
 ---
 
 An attempt to create a spiced ale rather than something with fruity hops.
