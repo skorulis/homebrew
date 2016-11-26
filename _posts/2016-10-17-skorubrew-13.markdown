@@ -5,12 +5,13 @@ title:  "Skorubrew #13"
 style: Rice beer
 date: 2016-10-17
 brew-date: 2016-10-18
-bottle-date:
-brew-status : Fermenting
+bottle-date: 2016-11-17
+brew-status : Bottled
 original-gravity: 1.040
 original-brix: 10
-final-gravity:
-alcohol-pct:
+final-brix: 6
+final-gravity: 1.014
+alcohol-pct: 3.41%
 yeast-temp : 23
 ---
 
@@ -43,8 +44,12 @@ Brewday 18-10-2016
 * Forgot to split my water out. Going to try to use the mash water as sparge. Could even work better than what I normally do. 
 * Decided to try putting a single hop in at 10 minute intervals to hopefully get a more rounded hop flavour
 
-Bottling XX-XX-2016
+Bottling 17-11-2016
 -------------
+
+* Smooth sailing with the bottling. The rice seemed to give it a slight sweetness that I didn't expect but I didn't have much leftover to taste so it's hard to say how it's going to be in a few weeks
 
 Updates
 -------
+
+* [07-11-2016] Added dry hops 

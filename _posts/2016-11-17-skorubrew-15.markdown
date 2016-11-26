@@ -1,0 +1,40 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #15"
+style: Belgian Chocolate milk stout
+date: 2016-11-17
+brew-date: 2016-11-19
+bottle-date:
+brew-status : Fermenting
+original-gravity: 1.081
+original-brix: 19.5
+final-brix: 
+final-gravity:
+alcohol-pct:
+yeast-temp : 30 
+yeast: Mangrove jacks M27
+---
+
+Another beer to brew in warmer temperatures. Going to try for a chocolate belgian stout based off of my old milk chocolate stout.
+
+
+Grain bill
+-----
+
+* Maris otter Malt 1kg
+* Chocolate malt 200g
+* Brown malt 200g
+* Lactose 150g
+* Cocoa powder 5g
+
+Hop schedule
+--------
+
+* 3g mosaic @ 30 minutes
+* 4g willamette dry hop
+
+* Updates
+-----
+
+* 26-11-2016 - Reading of 12.5 brix, 6.5% ABV. Smells a bit wrong, like the hops aren't a good fit with the malt.
