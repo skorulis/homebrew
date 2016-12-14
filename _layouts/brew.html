@@ -11,9 +11,42 @@ layout: default
     &#127777;{{ page.ambient-temp }}&#176; &#128167;{{ page.water-temp }}&#176;
     {% endif %}
     
+    <table class="stats">
+      {% if page.style != null %}
+        <tr><td>Style</td><td>{{page.style}}</td></tr>
+      {% endif %}  
+      {% if page.brew-date != null %}
+        <tr><td>Brew Date</td><td>{{page.brew-date}}</td></tr>
+      {% endif %}
+      {% if page.bottle-date != null %}
+        <tr><td>Bottle Date</td><td>{{page.bottle-date}}</td></tr>
+      {% endif %}
+      {% if page.bottles != null %}
+        <tr><td>Total Bottles</td><td>{{page.bottles}}</td></tr>
+      {% endif %}
+      {% if page.original-gravity != null %}
+        <tr><td>Original Gravity</td><td>{{page.original-gravity}}</td></tr>
+      {% endif %}
+      {% if page.final-gravity != null %}
+        <tr><td>Final Gravity</td><td>{{page.final-gravity}}</td></tr>
+      {% endif %}    
+      {% if page.alcohol-pct != null %}
+        <tr><td>ABV</td><td>{{page.alcohol-pct}}%</td></tr>
+      {% endif %}
+      {% if page.yeast != null %}
+        <tr><td>Yeast</td><td>{{page.yeast}}</td></tr>
+      {% endif %}
+      {% if page.rating != null %}
+        <tr><td>Rating</td><td>{{page.rating}}/10</td></tr>
+      {% endif %}
+
+    </table>
+
   </header>
 
   <div class="post-content" itemprop="articleBody">
+
+
     {{ content }}
   </div>
 

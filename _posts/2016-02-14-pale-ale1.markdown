@@ -9,7 +9,7 @@ bottle-date: 2016-02-29
 ambient-temp : 28
 water-temp : 25
 yeast-temp : 27
-final-gravity: 1020
+final-gravity: 1.020
 rating: 4
 brew-status : Finished
 ---

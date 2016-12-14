@@ -14,6 +14,7 @@ final-gravity: 1.031
 alcohol-pct: 7.1
 yeast-temp : 30 
 yeast: Mangrove jacks M27
+bottles: 12
 ---
 
 Another beer to brew in warmer temperatures. Going to try for a chocolate belgian stout based off of my old milk chocolate stout.

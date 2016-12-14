@@ -9,7 +9,7 @@ brew-date: 2016-05-16
 bottle-date: 2016-06-05
 original-gravity: 1.065
 final-gravity: 1.015
-alcohol-pct: 6.6%
+alcohol-pct: 6.6
 yeast-temp : 17
 ---
 

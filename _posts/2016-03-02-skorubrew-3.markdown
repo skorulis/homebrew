@@ -12,7 +12,7 @@ yeast-temp : 25
 brew-status : Finished
 original-gravity: 1053
 final-gravity: 1018
-alcohol-level: 4.6%
+alcohol-pct: 4.6
 rating: 7
 ---
 

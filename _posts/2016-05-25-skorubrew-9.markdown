@@ -10,7 +10,7 @@ brew-status : Ready
 original-gravity: 1.052
 original-brix: 13
 final-gravity: 1.018
-alcohol-pct: 4.5%
+alcohol-pct: 4.5
 yeast-temp : 22
 ---
 

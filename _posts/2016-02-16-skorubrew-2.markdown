@@ -7,9 +7,9 @@ date:   2016-02-16
 brew-date: 2016-03-01
 bottle-date: 2016-03-10
 brew-status : Finished
-original-gravity: 1040
-final-gravity: 1014
-alcohol-level: 3.4
+original-gravity: 1.040
+final-gravity: 1.014
+alcohol-pct: 3.4
 ambient-temp : 28
 water-temp : 25
 yeast-temp : 23

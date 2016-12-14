@@ -11,7 +11,7 @@ yeast-temp : 16
 brew-status : Ready
 original-gravity: 1.058
 original-gravity: 1.017
-alcohol-level: 5.4%
+alcohol-level: 5.4
 bottles-made: 12
 rating: 6
 ---

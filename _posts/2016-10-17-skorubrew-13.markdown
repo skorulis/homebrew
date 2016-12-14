@@ -11,7 +11,7 @@ original-gravity: 1.040
 original-brix: 10
 final-brix: 6
 final-gravity: 1.014
-alcohol-pct: 3.41%
+alcohol-pct: 3.41
 yeast-temp : 23
 ---
 
