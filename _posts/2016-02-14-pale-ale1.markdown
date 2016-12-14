@@ -1,6 +1,7 @@
 ---
 layout: brew
 title:  "Skorubrew #1"
+number: 1
 style: Pale ale
 date:   2016-02-14
 categories: brew
@@ -74,15 +75,10 @@ Siphoned out of the fermenter using just a hose into 12 330ml bottles. Added a m
 The beer tasted a little bit sour and lacking much malt or hop flavour. I'm thinking #1 could be a failure and may end up way too fizzy. Will have to wait 2 weeks to find out
 
 
-
-![Bottled]({{ site.baseurl }}/assets/IMG_1069.JPG)
-
 Tasting {{ page.rating }} /10
 --------
 
 * Opened my first bottle on 07-03-2016 and it wasn't as bad as I thought. It smells better than when bottled but still has a slight sour/cider smell. Luckily this doesn't affect the taste much. The malt flavour is a bit strong for my liking and there's very little hop profile is missing. It's a little more bitter than I would like but it's not too bad.
-
-![Tasting]({{ site.baseurl }}/assets/skorubrew1.jpg)
 
 
 Updates

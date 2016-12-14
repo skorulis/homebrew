@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #7"
+number: 7
 style: Toffee apple ale
 date:   2016-05-16
 brew-status : Ready
@@ -66,7 +67,6 @@ Bottling 05-06-2016
 * Tried a new filter. Seemed to filter well but took too long to strain
 * Refractometer reading was 8.7 brix
 
-![Bottled]({{ site.baseurl }}/assets/bottled-7.jpg)
 
 Updates
 -------

@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #13"
+number: 13
 style: Rice beer
 date: 2016-10-17
 brew-date: 2016-10-18

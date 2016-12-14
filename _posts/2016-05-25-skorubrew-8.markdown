@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #8"
+number: 8
 style: Chocolate milk stout
 date:   2016-05-25
 brew-date: 2016-05-29
@@ -65,5 +66,3 @@ Bottling 15-06-2016
 
 * Final reading of 10.5 brix
 * The beer smells a little bit smokey tastes quite bitter despite still having a lot of sugar. Don't think this is going to end up tasting that nice
-
-![Bottled]({{ site.baseurl }}/assets/bottled-8.jpg)

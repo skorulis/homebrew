@@ -20,6 +20,20 @@ layout: default
       {% endif %}
       {% if page.bottle-date != null %}
         <tr><td>Bottle Date</td><td>{{page.bottle-date}}</td></tr>
+        {% assign dateStart = page.bottle-date | date: '%s' %}
+
+        {% if page.brew-date != null %}
+          {% assign brewDate = page.brew-date | date: '%s' %}          
+          {% assign diffSeconds = dateStart | minus: brewDate %}
+          {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
+          <tr><td>Fermentation</td><td>{{diffDays}} Days</td></tr>
+        {% endif %}
+
+          
+        {% assign nowTimestamp = 'now' | date: '%s' %}
+        {% assign diffSeconds = nowTimestamp | minus: dateStart %}
+        {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
+        <tr><td>Bottle conditioning</td><td>{{diffDays}} Days</td></tr>
       {% endif %}
       {% if page.bottles != null %}
         <tr><td>Total Bottles</td><td>{{page.bottles}}</td></tr>
@@ -45,9 +59,11 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
-
-
     {{ content }}
   </div>
+
+  <img alt="Bottled" src="{{ site.baseurl }}/assets/bottled-{{page.number}}.jpg" onError="style.display = 'none';">
+
+  <img alt="Tasting" src="{{ site.baseurl }}/assets/skorubrew-{{page.number}}.jpg" onError="style.display = 'none';">
 
 </article>

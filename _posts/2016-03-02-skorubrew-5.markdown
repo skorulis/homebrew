@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #5"
+number: 5
 style: Belgian pale ale
 date:   2016-04-15
 brew-date: 2016-04-24
@@ -63,8 +64,6 @@ Bottling 11-05-2016
 * This time to reduce the amount of gunk in the bottle I tried a funnel with a chux cloth. Got a little bit of the gunk out of the bottle and made me feel better about getting out the last drops. Still only got 11 bottles
 * Reading was 6.1 brix meaning the FG is 1.010 and the alcohol will be 6.4% after bottling
 * The smell at this stage is amazing but the taste seems a little off. It definitely has a belgian tinge but has a strong alcohol taste. Has a nice aftertaste though. Will have to wait and see how this turns out
-
-![Bottled]({{ site.baseurl }}/assets/bottled-5.jpg)
 
 Updates
 -------

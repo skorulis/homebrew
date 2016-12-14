@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #9"
+number: 9
 style: Pale ale
 date:   2016-05-25
 brew-date: 2016-05-29
@@ -56,8 +57,6 @@ Bottling 04-07-2016
 
 * Final reading of 8 brix
 * Smells and tastes pretty good
-
-![Bottled]({{ site.baseurl }}/assets/bottled-9.jpg)
 
 Updates
 -------

@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #2"
+number: 2
 style: Pale ale
 date:   2016-02-16
 brew-date: 2016-03-01
@@ -87,8 +88,6 @@ Tasting {{ page.rating }} /10
 --------
 
 Has a bit of a yeasty smell but it’s covered up a bit by a mild hop aroma. Low on bitterness with a bit of sweetness and not too malty. All round quite drinkable
-
-![Tasting]({{ site.baseurl }}/assets/skorubrew2.jpg)
 
 Updates
 -------

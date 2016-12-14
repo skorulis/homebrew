@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #12"
+number: 12
 style: Spiced ale
 date:   2016-06-21
 bottle-date: 2016-11-12

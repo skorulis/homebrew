@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #14"
+number: 14
 style: Belgian Apple Ale
 date: 2016-11-16
 brew-date: 2016-11-18

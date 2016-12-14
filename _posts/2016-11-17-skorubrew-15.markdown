@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #15"
+number: 15
 style: Coconut porter
 date: 2016-11-17
 brew-date: 2016-11-19
@@ -27,7 +28,6 @@ Grain bill
 * Chocolate malt 200g
 * Brown malt 200g
 * Lactose 150g
-* Cocoa powder 5g
 
 Hop schedule
 --------

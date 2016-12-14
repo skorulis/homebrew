@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #11"
+number: 11
 style: Hop bomb
 date:   2016-06-20
 brew-date: 2016-07-04

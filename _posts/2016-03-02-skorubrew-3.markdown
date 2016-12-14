@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #3"
+number: 3
 style: Pale ale
 date:   2016-03-02
 brew-date: 2016-03-12
@@ -77,8 +78,6 @@ Tasting {{ page.rating }} /10
 --------
 
 Pretty good all round. Has a nice sweetness which balances well against the slight citrus hop profile 
-
-![Tasting]({{ site.baseurl }}/assets/skorubrew3.jpg)
 
 Updates
 -------

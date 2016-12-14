@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #10"
+number: 10
 style: Cider
 date:   2016-06-07
 brew-date: 2016-06-16

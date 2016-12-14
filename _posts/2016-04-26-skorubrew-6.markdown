@@ -2,6 +2,7 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #6"
+number: 6
 style: IPA
 date:   2016-04-26
 brew-status : Ready
@@ -62,8 +63,6 @@ Bottling 23-05-2016
 * Refractometer reading was 8 brix which means the FG is 1.015 making this a 5.8% beer
 * The smell coming off this while bottling was amazing. Really strong citrus and apple. Can't wait to taste it
 * Sadly there was only enough for 10.5 bottles. Going to add more water to the next batch to get an extra bottle
-
-![Bottled]({{ site.baseurl }}/assets/bottled-6.jpg)
 
 Updates
 -------

@@ -2,7 +2,8 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #16"
-style: XXXX
+number: 16
+style: Saison
 date:   2016-12-14
 brew-date:
 bottle-date:
@@ -14,9 +15,15 @@ alcohol-pct:
 yeast-temp :
 ---
 
+This beer was done at the same time as #17 and then split into 2 fermenters
 
-Ingredients
+Grain Bill
 -----
+
+* Maris otter Malt 1.5kg
+* Caramalt 300g
+* Toffee Malt 300g
+* Lactose 150g
 
 Method
 -------
