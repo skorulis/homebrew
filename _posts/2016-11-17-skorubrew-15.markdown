@@ -2,16 +2,16 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #15"
-style: Belgian Chocolate milk stout
+style: Coconut porter
 date: 2016-11-17
 brew-date: 2016-11-19
-bottle-date:
-brew-status : Fermenting
+bottle-date: 2016-12-12
+brew-status : Bottled
 original-gravity: 1.081
 original-brix: 19.5
-final-brix: 
-final-gravity:
-alcohol-pct:
+final-brix: 12
+final-gravity:1.031
+alcohol-pct:7.1
 yeast-temp : 30 
 yeast: Mangrove jacks M27
 ---
@@ -32,9 +32,12 @@ Hop schedule
 --------
 
 * 3g mosaic @ 30 minutes
-* 4g willamette dry hop
+* 2g willamette dry hop
+* 10g roasted flaked coconut
 
 * Updates
 -----
 
 * 26-11-2016 - Reading of 12.5 brix, 6.5% ABV. Smells a bit wrong, like the hops aren't a good fit with the malt.
+* 01-12-2016 - Added roasted coconut and willamette as dry hops
+* 12-12-2016 - Seems a bit all over the place at bottling. Too much bitterness overriding the other flavours
