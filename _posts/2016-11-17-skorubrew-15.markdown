@@ -10,8 +10,8 @@ brew-status : Bottled
 original-gravity: 1.081
 original-brix: 19.5
 final-brix: 12
-final-gravity:1.031
-alcohol-pct:7.1
+final-gravity: 1.031
+alcohol-pct: 7.1
 yeast-temp : 30 
 yeast: Mangrove jacks M27
 ---

@@ -4,7 +4,7 @@ categories: brew
 title:  "Skorubrew #6"
 style: IPA
 date:   2016-04-26
-brew-status : Bottled
+brew-status : Ready
 brew-date: 2016-05-07
 bottle-date: 2016-05-23
 original-gravity: 1.059

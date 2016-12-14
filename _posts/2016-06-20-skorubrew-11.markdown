@@ -8,7 +8,7 @@ brew-date: 2016-07-04
 original-gravity: 1.048
 original-brix: 12
 yeast-temp : 23
-brew-status : Bottled
+brew-status : Ready
 ---
 
 Going to change up my base malt and then dump lots of hops I have lying around to see what comes out

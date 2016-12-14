@@ -4,7 +4,7 @@ categories: brew
 title:  "Skorubrew #7"
 style: Toffee apple ale
 date:   2016-05-16
-brew-status : Bottled
+brew-status : Ready
 brew-date: 2016-05-16
 bottle-date: 2016-06-05
 original-gravity: 1.065

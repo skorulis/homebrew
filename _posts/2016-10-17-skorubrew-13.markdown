@@ -6,7 +6,7 @@ style: Rice beer
 date: 2016-10-17
 brew-date: 2016-10-18
 bottle-date: 2016-11-17
-brew-status : Bottled
+brew-status : Ready
 original-gravity: 1.040
 original-brix: 10
 final-brix: 6
