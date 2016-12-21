@@ -10,6 +10,8 @@ original-gravity: 1.053
 original-brix: 13
 yeast-temp : 19
 brew-status : Ready
+status-num: 3
+rating: 4.5
 ---
 
 Going to give beer a break and try my hand at brewing a cider based on [this recipe](http://www.thehopandgrain.com.au/brew-simple-5l-apple-pear-cider/) with the addition of some passionfruit
@@ -44,3 +46,8 @@ So much faster and easier than making beer. The whole process took less than an 
 
 
 ![Brewday]({{ site.baseurl }}/assets/brewday-10.jpg)
+
+Tasting {{ page.rating }} /10
+--------
+
+It's definitely a cider even though it was made with ale yeast. Tastes a little cheap and sugary but it's drinkable

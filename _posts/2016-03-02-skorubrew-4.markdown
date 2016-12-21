@@ -10,6 +10,7 @@ bottle-date: 2016-04-22
 ambient-temp : 28
 yeast-temp : 16
 brew-status : Ready
+status-num: 3
 original-gravity: 1.058
 original-gravity: 1.017
 alcohol-level: 5.4

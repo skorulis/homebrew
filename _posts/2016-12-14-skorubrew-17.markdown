@@ -1,8 +1,8 @@
 ---
 layout: brew
 categories: brew
-title:  "Skorubrew #16"
-number: 16
+title:  "Skorubrew #17"
+number: 17
 style: Saison
 date:   2016-12-14
 brew-date: 2016-12-17
@@ -17,7 +17,7 @@ yeast: Mangrove jacks M29
 yeast-temp : 18
 ---
 
-This beer was done at the same time as #17 and then split into 2 fermenters
+This beer was done at the same time as #16 and then split into 2 fermenters
 
 Grain Bill
 -----
@@ -26,17 +26,16 @@ Grain Bill
 * Caramalt 300g
 * Toffee Malt 300g
 * Lactose 120g
-* Rice 150g
+* Rice 200g
+
+Hop Schedule
+-------------
 
 Method
 -------
 
 * Mash at 70C for 1 hour
 * Batch sparge with water 70-75C
-
-Hop Schedule
--------------
-
 
 
 Updates

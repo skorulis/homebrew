@@ -11,6 +11,8 @@ ambient-temp : 24
 yeast-temp : 20
 original-gravity: 1.058
 brew-status : Ready
+status-num: 3
+rating: 6
 ---
 
 After tossing up between using honey, making another dark beer and using a different yeast I landed on using a Belgian yeast to make a Belgian pale ale. After some advice from my LHBS I decided to add 300g of Vienna malt into the #3 recipe. 
@@ -64,6 +66,11 @@ Bottling 11-05-2016
 * This time to reduce the amount of gunk in the bottle I tried a funnel with a chux cloth. Got a little bit of the gunk out of the bottle and made me feel better about getting out the last drops. Still only got 11 bottles
 * Reading was 6.1 brix meaning the FG is 1.010 and the alcohol will be 6.4% after bottling
 * The smell at this stage is amazing but the taste seems a little off. It definitely has a belgian tinge but has a strong alcohol taste. Has a nice aftertaste though. Will have to wait and see how this turns out
+
+Tasting {{ page.rating }} /10
+--------
+
+Definitely tastes like a belgian ale. Not the favourite beer I've made but it's ok.
 
 Updates
 -------

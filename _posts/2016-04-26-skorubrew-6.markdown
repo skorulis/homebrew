@@ -6,12 +6,14 @@ number: 6
 style: IPA
 date:   2016-04-26
 brew-status : Ready
+status-num: 3
 brew-date: 2016-05-07
 bottle-date: 2016-05-23
 original-gravity: 1.059
 final-gravity: 1.015
 yeast-temp : 15
 total-bottles: 10.5
+rating: 7
 ---
 
 Still deciding exactly what to do on this one. I've got my grain already and am thinking of doing something similar to #3 but with more oats and hops to make a stronger hoppier beer. This could be the first beer that I call an IPA.
@@ -63,6 +65,11 @@ Bottling 23-05-2016
 * Refractometer reading was 8 brix which means the FG is 1.015 making this a 5.8% beer
 * The smell coming off this while bottling was amazing. Really strong citrus and apple. Can't wait to taste it
 * Sadly there was only enough for 10.5 bottles. Going to add more water to the next batch to get an extra bottle
+
+Tasting {{ page.rating }} /10
+--------
+
+A little underwhelmed with the hop flavour, it didn’t come out as strong as I expected. While I wouldn’t really call this an IPA it’s still a nice beer. Not too bitter and really easy to drink.
 
 Updates
 -------

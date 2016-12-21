@@ -13,6 +13,7 @@ yeast-temp : 27
 final-gravity: 1.020
 rating: 4
 brew-status : Finished
+status-num: 4
 ---
 
 After many years of drinking beer I finally decided to take a spin at making it myself so I went out and got myself a 5L brew kit

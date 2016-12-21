@@ -8,6 +8,7 @@ date:   2016-05-25
 brew-date: 2016-05-29
 bottle-date: 2016-07-04
 brew-status : Ready
+status-num: 3
 original-gravity: 1.052
 original-brix: 13
 final-gravity: 1.018

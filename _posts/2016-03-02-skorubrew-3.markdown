@@ -11,6 +11,7 @@ ambient-temp : 29
 water-temp : 25
 yeast-temp : 25
 brew-status : Finished
+status-num: 4
 original-gravity: 1053
 final-gravity: 1018
 alcohol-pct: 4.6

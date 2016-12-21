@@ -62,8 +62,12 @@ layout: default
     {{ content }}
   </div>
 
-  <img alt="Bottled" src="{{ site.baseurl }}/assets/bottled-{{page.number}}.jpg" onError="style.display = 'none';">
+{% if page.status-num >= 2 %}
+    <img alt="Bottled" src="{{ site.baseurl }}/assets/bottled-{{page.number}}.jpg" onError="style.display = 'none';">
+{% endif %}
 
+{% if page.status-num >= 3 %}
   <img alt="Tasting" src="{{ site.baseurl }}/assets/skorubrew-{{page.number}}.jpg" onError="style.display = 'none';">
+{% endif %}  
 
 </article>

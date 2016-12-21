@@ -1,0 +1,37 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #18"
+number: 18
+style: Mead ale
+date:   2016-12-21
+brew-date: 
+bottle-date:
+brew-status : Planned
+status-num: 0
+original-gravity: 
+original-brix: 
+final-gravity:
+alcohol-pct:
+yeast-temp : 
+---
+
+
+
+Grain Bill
+-----
+
+
+Hop Schedule
+-------------
+
+Method
+-------
+
+* Mash at 70C for 1 hour
+* Batch sparge with water 70-75C
+* Bring to boil and leave for 1 hour
+
+
+Updates
+-------

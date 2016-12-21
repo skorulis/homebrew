@@ -12,7 +12,9 @@ final-gravity: 1.026
 original-brix: 16.2
 alcohol-pct: 5.6
 brew-status : Ready
+status-num: 3
 yeast-temp : 18
+rating: 7.5
 ---
 
 This is definitely going to be another stout since I've gotten quite a lot of interest there. Thinking of making this a chocolate milk stout.
@@ -66,3 +68,8 @@ Bottling 15-06-2016
 
 * Final reading of 10.5 brix
 * The beer smells a little bit smokey tastes quite bitter despite still having a lot of sugar. Don't think this is going to end up tasting that nice
+
+Tasting {{ page.rating }} /10
+--------
+
+A much more in your face stout than my earlier one.

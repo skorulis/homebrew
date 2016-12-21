@@ -6,12 +6,14 @@ number: 7
 style: Toffee apple ale
 date:   2016-05-16
 brew-status : Ready
+status-num: 3
 brew-date: 2016-05-16
 bottle-date: 2016-06-05
 original-gravity: 1.065
 final-gravity: 1.015
 alcohol-pct: 6.6
 yeast-temp : 17
+rating: 7.5
 ---
 
 I've already got my malt for this but I'm thinking of adding the juice from an Apple to make this a Toffee Apple Ale
@@ -67,6 +69,10 @@ Bottling 05-06-2016
 * Tried a new filter. Seemed to filter well but took too long to strain
 * Refractometer reading was 8.7 brix
 
+Tasting {{ page.rating }} /10
+--------
+
+There’s a slight caramel/toffee flavour that comes through but the apple isn’t there except for the smell. More bitter than my other beers but it’s not overwhelming
 
 Updates
 -------
