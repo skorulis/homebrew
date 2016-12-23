@@ -3,7 +3,7 @@ layout: brew
 categories: brew
 title:  "Skorubrew #18"
 number: 18
-style: Mead ale
+style: Wheat ale
 date:   2016-12-21
 brew-date: 
 bottle-date:
@@ -14,16 +14,28 @@ original-brix:
 final-gravity:
 alcohol-pct:
 yeast-temp : 
+yeast: Mangrove jack's M05
 ---
 
+First experiments with using wheat malt but brewing this with mead yeast because why not?
 
 
 Grain Bill
 -----
 
+* 500g pilsner malt
+* 500g wheat malt
+
 
 Hop Schedule
 -------------
+
+* 1g Willamette @ 50 minutes
+* 1g Willamette @ 40 minutes
+* 1g Willamette @ 30 minutes
+* 1g Willamette @ 20 minutes
+* 1g Willamette @ 10 minutes
+* 5g Willamette dry hop
 
 Method
 -------
