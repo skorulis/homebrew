@@ -73,8 +73,6 @@ Bottling 10-04-2016
 
 Having the loose hops made it difficult to prevent gunk ending up in the bottles, don't think I'll try that again. The beer again tastes a bit green and less hoppy than I was expecting. I thought the extra time fermenting would have reduced the greeness and the 10g of hops would have added more of a hop smell. The oats seem to have given it a more syrupy texture leading me to think that this will end up being a smooth easy drinking beer.
 
-![Bottled]({{ site.baseurl }}/assets/IMG_0001.jpg)
-
 Tasting {{ page.rating }} /10
 --------
 

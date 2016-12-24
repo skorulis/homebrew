@@ -20,21 +20,29 @@ layout: default
       {% endif %}
       {% if page.bottle-date != null %}
         <tr><td>Bottle Date</td><td>{{page.bottle-date}}</td></tr>
-        {% assign dateStart = page.bottle-date | date: '%s' %}
+      {% endif %}      
 
-        {% if page.brew-date != null %}
-          {% assign brewDate = page.brew-date | date: '%s' %}          
-          {% assign diffSeconds = dateStart | minus: brewDate %}
+      {% assign nowTimestamp = 'now' | date: '%s' %}
+      {% assign brewDate = page.brew-date | date: '%s' %}
+      {% assign bottleDate = page.bottle-date | date: '%s' %}
+
+      {% if page.brew-date != null %}
+        {% if page.bottle-date != null %}
+          {% assign diffSeconds = bottleDate | minus: brewDate %}
           {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
           <tr><td>Fermentation</td><td>{{diffDays}} Days</td></tr>
+
+          {% assign diffSeconds = nowTimestamp | minus: bottleDate %}
+          {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
+          <tr><td>Bottle conditioning</td><td class="days-since" data-timestamp="{{bottleDate}}">{{diffDays}} Days</td></tr>
+        {% else %}
+          {% assign diffSeconds = nowTimestamp | minus: brewDate %}
+          {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
+          <tr><td>Fermentation</td><td class="days-since" data-timestamp="{{brewDate}}">{{diffDays}} Days</td></tr>
         {% endif %}
 
-          
-        {% assign nowTimestamp = 'now' | date: '%s' %}
-        {% assign diffSeconds = nowTimestamp | minus: dateStart %}
-        {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
-        <tr><td>Bottle conditioning</td><td>{{diffDays}} Days</td></tr>
-      {% endif %}
+      {% endif %}      
+
       {% if page.bottles != null %}
         <tr><td>Total Bottles</td><td>{{page.bottles}}</td></tr>
       {% endif %}
@@ -71,3 +79,16 @@ layout: default
 {% endif %}  
 
 </article>
+
+<script type="text/javascript">
+  var x = document.getElementsByClassName("days-since");
+  x = Array.from(x);
+  x.forEach(function(e) {
+    var stamp = e.getAttribute("data-timestamp");
+    var now = Math.floor(Date.now() / 1000);
+    var days = Math.floor( (now - stamp) / (3600 *24) );
+    e.innerText = days + " Days";
+  });
+  
+
+</script>
