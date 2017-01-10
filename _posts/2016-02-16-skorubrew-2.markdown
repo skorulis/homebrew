@@ -16,6 +16,7 @@ ambient-temp : 28
 water-temp : 25
 yeast-temp : 23
 rating: 6
+missing-bottle-photo: 1
 ---
 
 While #1 is currently fermenting it's time for me to start thinking about #2. I don't yet know what #1 tastes like but I want to start work on a second to hedge my bets in case it turns out bad.

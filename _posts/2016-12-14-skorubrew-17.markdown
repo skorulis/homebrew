@@ -6,6 +6,7 @@ number: 17
 style: Saison
 date:   2016-12-14
 brew-date: 2016-12-17
+dry-hop-date: 2017-01-10
 bottle-date:
 brew-status : Fermenting
 status-num: 1
@@ -30,6 +31,9 @@ Grain Bill
 
 Hop Schedule
 -------------
+
+* 7g mosaic dry hop
+* 10g lemongrass dry hop
 
 Method
 -------

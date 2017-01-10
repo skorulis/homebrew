@@ -70,7 +70,7 @@ layout: default
     {{ content }}
   </div>
 
-{% if page.status-num >= 2 %}
+{% if page.status-num >= 2 and page.missing-bottle-photo != 1 %}
     <img alt="Bottled" src="{{ site.baseurl }}/assets/bottled-{{page.number}}.jpg" onError="style.display = 'none';">
 {% endif %}
 

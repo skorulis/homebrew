@@ -5,15 +5,15 @@ title:  "Skorubrew #18"
 number: 18
 style: Wheat ale
 date:   2016-12-21
-brew-date: 
+brew-date: 2017-01-09
 bottle-date:
-brew-status : Planned
-status-num: 0
-original-gravity: 
-original-brix: 
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.038 
+original-brix: 9
 final-gravity:
 alcohol-pct:
-yeast-temp : 
+yeast-temp : 27
 yeast: Mangrove jack's M05
 ---
 
@@ -47,3 +47,5 @@ Method
 
 Updates
 -------
+
+* 2017-01-10 - The brew bubbled straight through the airlock. Surprised considering how little sugar was involved but I guess the mead yeast is just a beast.

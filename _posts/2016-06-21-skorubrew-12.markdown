@@ -6,8 +6,9 @@ number: 12
 style: Spiced ale
 date:   2016-06-21
 bottle-date: 2016-11-12
-brew-status : Ready
-status-num: 3
+brew-status : Finished
+status-num: 4
+rating: 0
 ---
 
 An attempt to create a spiced ale rather than something with fruity hops. The beer both tasted bad and ended up as bottle bombs. I ended up using fractional concentration to create 3 bottles of ~10% beer.
@@ -21,3 +22,9 @@ Ingredients
 * Fruit tea
 * Cinnamon
 * T-58 yeast
+
+
+Tasting {{ page.rating }} /10
+--------
+
+Ended up just plain awful. Had one mouthful and threw the rest out
