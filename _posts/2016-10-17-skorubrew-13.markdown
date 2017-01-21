@@ -15,6 +15,7 @@ final-brix: 6
 final-gravity: 1.014
 alcohol-pct: 3.41
 yeast-temp : 23
+rating: 6.5
 ---
 
 A bit of a random beer to get back into it. Going to try putting rice in the beer to see how that goes.
@@ -50,6 +51,11 @@ Bottling 17-11-2016
 -------------
 
 * Smooth sailing with the bottling. The rice seemed to give it a slight sweetness that I didn't expect but I didn't have much leftover to taste so it's hard to say how it's going to be in a few weeks
+
+Tasting {{ page.rating }} /10
+--------
+
+Smells citrusy and yeasty, the yeasty smell probably being the biggest let down. Has a sweet and very mild taste. A very refreshing and easy drinking beer. Also it just look beautiful.
 
 Updates
 -------

@@ -14,6 +14,7 @@ original-brix: 13
 final-gravity: 1.018
 alcohol-pct: 4.5
 yeast-temp : 22
+rating: 6.5/10
 ---
 
 A very similar beer to #3 with the addition of a little lactose and flour. Flour because I wanted to experiment with it and lactose because I need to find some use for it outside of stouts.
@@ -58,6 +59,11 @@ Bottling 04-07-2016
 
 * Final reading of 8 brix
 * Smells and tastes pretty good
+
+Tasting {{ page.rating }} /10
+--------
+
+A little over carbonated with no head retention but still a tasty drop. Fairly easy drinking with just a mild hop flavour. Has a sweet finish that takes away the bitterness.
 
 Updates
 -------
