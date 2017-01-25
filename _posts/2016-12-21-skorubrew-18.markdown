@@ -7,15 +7,17 @@ style: Wheat ale
 date:   2016-12-21
 brew-date: 2017-01-09
 dry-hop-date: 2017-01-20
-bottle-date:
-brew-status : Fermenting
-status-num: 1
+bottle-date: 2017-01-25
+brew-status : Bottled
+status-num: 2
 original-gravity: 1.038 
 original-brix: 9
-final-gravity:
-alcohol-pct:
+final-brix: 5
+final-gravity: 1.010
+alcohol-pct: 3.7%
 yeast-temp : 27
 yeast: Mangrove jack's M05
+total-bottles: 12
 ---
 
 First experiments with using wheat malt but brewing this with mead yeast because why not?

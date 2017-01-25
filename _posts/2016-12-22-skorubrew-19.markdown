@@ -5,15 +5,15 @@ title:  "Skorubrew #19"
 number: 19
 style: Red Rye IPA
 date:   2016-12-22
-brew-date: 
+brew-date: 2016-01-21
 bottle-date:
-brew-status : Planned
-status-num: 0
-original-gravity: 
-original-brix: 
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.064
+original-brix: 16
 final-gravity:
 alcohol-pct:
-yeast-temp : 
+yeast-temp : 25
 yeast: Mangrove jack's M27
 ---
 
@@ -37,7 +37,7 @@ Hop Schedule
 * 2g Mosaic @ 30 minutes
 * 2g Mosaic @ 20 minutes
 * 2g Mosaic @ 10 minutes
-* 10g Mosaic dry hop
+* 10g Galaxy dry hop
 
 Method
 -------
