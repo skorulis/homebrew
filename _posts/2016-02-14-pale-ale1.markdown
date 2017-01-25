@@ -13,6 +13,7 @@ yeast-temp : 27
 final-gravity: 1.020
 rating: 4
 brew-status : Finished
+missing-bottle-photo: 1
 status-num: 4
 ---
 

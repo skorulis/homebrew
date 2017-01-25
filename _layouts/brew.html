@@ -74,7 +74,7 @@ layout: default
     <img alt="Bottled" src="{{ site.baseurl }}/assets/bottled-{{page.number}}.jpg" onError="style.display = 'none';">
 {% endif %}
 
-{% if page.status-num >= 3 %}
+{% if page.status-num >= 3 and page.missing-glass-photo != 1 %}
   <img alt="Tasting" src="{{ site.baseurl }}/assets/skorubrew-{{page.number}}.jpg" onError="style.display = 'none';">
 {% endif %}  
 

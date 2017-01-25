@@ -12,6 +12,8 @@ yeast-temp : 19
 brew-status : Ready
 status-num: 3
 rating: 4.5
+missing-bottle-photo: 1
+missing-glass-photo: 1
 ---
 
 Going to give beer a break and try my hand at brewing a cider based on [this recipe](http://www.thehopandgrain.com.au/brew-simple-5l-apple-pear-cider/) with the addition of some passionfruit
