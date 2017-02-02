@@ -1,0 +1,48 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #20"
+number: 20
+style: witbier
+date:   2017-02-01
+brew-date: 
+bottle-date:
+brew-status : Planned
+status-num: 0
+original-gravity: 
+original-brix: 
+final-gravity:
+alcohol-pct:
+yeast-temp : 
+yeast: Mangrove jack's M41
+---
+
+Brewing a lighter beer good for warmer weather
+
+
+Grain Bill
+-----
+
+* 800g maris otter
+* 300g JOE WHITE WHEAT CRYSTAL
+
+Hop Schedule
+-------------
+
+* 1g Galaxy @ 40 minutes
+* 1g Galaxy @ 30 minutes
+* 1g Galaxy @ 20 minutes
+* 1g Galaxy @ 10 minutes
+
+* 5g Galaxy dry hop
+
+Method
+-------
+
+* Mash at 70C for 1 hour
+* Batch sparge with water 70-75C
+* Bring to boil and leave for 1 hour
+
+
+Updates
+-------
