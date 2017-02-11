@@ -6,6 +6,7 @@ number: 19
 style: Red Rye IPA
 date:   2016-12-22
 brew-date: 2016-01-21
+dry-hop-date: 2017-02-02
 bottle-date:
 brew-status : Fermenting
 status-num: 1
