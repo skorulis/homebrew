@@ -5,7 +5,7 @@ title:  "Skorubrew #19"
 number: 19
 style: Red Rye IPA
 date:   2016-12-22
-brew-date: 2016-01-21
+brew-date: 2017-01-21
 dry-hop-date: 2017-02-02
 bottle-date: 2017-02-13
 brew-status : Bottled
