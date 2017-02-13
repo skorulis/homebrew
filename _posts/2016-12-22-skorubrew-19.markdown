@@ -7,14 +7,16 @@ style: Red Rye IPA
 date:   2016-12-22
 brew-date: 2016-01-21
 dry-hop-date: 2017-02-02
-bottle-date:
-brew-status : Fermenting
-status-num: 1
+bottle-date: 2017-02-13
+brew-status : Bottled
+status-num: 2
 original-gravity: 1.064
 original-brix: 16
-final-gravity:
-alcohol-pct:
+final-gravity: 1.011
+final-brix: 7
+alcohol-pct: 7.5
 yeast-temp : 25
+total-bottles: 10
 yeast: Mangrove jack's M27
 ---
 
@@ -50,3 +52,5 @@ Method
 
 Updates
 -------
+
+* 13-02-2017 - This was my best tasting beer at bottling time so far. It has an initial bitter smokiness but a really mellow after taste which works perfectly. You know when you're drinking warm, flat, young beer and wishing there was more it's going to be a good batch.
