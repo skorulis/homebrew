@@ -8,6 +8,7 @@
 # Site settings
 title: Skorubrew
 email: skorulis@gmail.com
+google_analytics: UA-23447195-1
 description: > # this means to ignore newlines until "baseurl:"
   
 twitter_username: skorulis
