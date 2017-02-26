@@ -1,0 +1,41 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #22"
+number: 22
+style: Raspberry Cider 
+date:   2017-02-26
+brew-date: 2017-02-26
+bottle-date:
+brew-status : Fermenting
+status-num: 1
+original-gravity: 
+original-brix: 
+final-gravity:
+alcohol-pct:
+yeast-temp : 
+yeast: Mangrove jack's M05
+---
+
+A simple cider with some raspberries added for extra flavour. Also adding some dry hops to kick the aroma up
+
+
+Grain Bill
+-----
+
+* 4L apple juice
+
+Hop Schedule
+-------------
+
+
+Method
+-------
+
+* Mash at 70C for 1 hour
+* Batch sparge with water 70-75C
+* Bring to boil and leave for 1 hour
+
+
+Updates
+-------

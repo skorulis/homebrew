@@ -17,6 +17,7 @@ alcohol-pct: 7.1
 yeast-temp : 30 
 yeast: Mangrove jacks M27
 bottles: 12
+rating: 4
 ---
 
 Another beer to brew in warmer temperatures. Going to try for a chocolate belgian stout based off of my old milk chocolate stout.
@@ -36,6 +37,11 @@ Hop schedule
 * 3g mosaic @ 30 minutes
 * 2g willamette dry hop
 * 10g roasted flaked coconut
+
+Tasting {{ page.rating }} /10
+--------
+
+On my first tasting this was really bad. 2 months later it’s improved significantly. The head dies off immediately, and it’s got too much coffee flavour but as a slow drink it’s ok. I’m not left wanting another one. Perhaps it will improve more after another 2 months
 
 * Updates
 -----

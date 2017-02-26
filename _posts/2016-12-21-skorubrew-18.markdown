@@ -19,6 +19,7 @@ yeast-temp : 27
 yeast: Mangrove jack's M05
 total-bottles: 12
 missing-bottle-photo: 1
+rating: 6
 ---
 
 First experiments with using wheat malt but brewing this with mead yeast because why not?
@@ -48,6 +49,10 @@ Method
 * Batch sparge with water 70-75C
 * Bring to boil and leave for 1 hour
 
+Tasting {{ page.rating }} /10
+--------
+
+Has a beautiful hazy golden color. Starts off a bit yeasty but that fades quickly. Almost no lingering bitterness and there's a slight tangy flavour but there's just too something that seems wrong
 
 Updates
 -------

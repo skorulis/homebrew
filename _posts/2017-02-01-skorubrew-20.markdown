@@ -6,6 +6,7 @@ number: 20
 style: witbier
 date:   2017-02-01
 brew-date: 2017-02-11
+dry-hop-date: 2017-02-26
 bottle-date:
 brew-status : Fermenting
 status-num: 1

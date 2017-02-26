@@ -8,8 +8,8 @@ date:   2016-12-14
 brew-date: 2016-12-17
 dry-hop-date: 2016-12-31
 bottle-date: 2017-01-09
-brew-status : Bottled
-status-num: 2
+brew-status : Ready
+status-num: 3
 original-gravity: 1.058
 original-brix: 14.2
 final-brix: 7
@@ -18,6 +18,7 @@ alcohol-pct: 6.4
 yeast: Mangrove jacks M29
 total-bottles: 11
 yeast-temp : 18
+rating: 6
 ---
 
 This beer was done at the same time as #17 and then split into 2 fermenters
@@ -42,6 +43,11 @@ Hop Schedule
 
 * 7g galaxy dry hop
 
+
+Tasting {{ page.rating }} /10
+--------
+
+Very much a Belgian ale. Not too bitter and very low on hop flavour. Not very pretty. Probably a good winter beer, sadly I brewed it in the summer
 
 Updates
 -------
