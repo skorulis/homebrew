@@ -24,6 +24,7 @@ Grain Bill
 -----
 
 * 4L apple juice
+* 20g frozen raspberries
 
 Hop Schedule
 -------------

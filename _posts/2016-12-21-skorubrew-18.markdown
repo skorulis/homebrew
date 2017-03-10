@@ -18,7 +18,6 @@ alcohol-pct: 3.7%
 yeast-temp : 27
 yeast: Mangrove jack's M05
 total-bottles: 12
-missing-bottle-photo: 1
 rating: 6
 ---
 

@@ -7,14 +7,15 @@ style: witbier
 date:   2017-02-01
 brew-date: 2017-02-11
 dry-hop-date: 2017-02-26
-bottle-date:
-brew-status : Fermenting
-status-num: 1
+bottle-date: 2017-03-05
+brew-status : Bottled
+status-num: 2
 original-gravity: 1.045 
 original-brix: 11
-final-gravity:
-alcohol-pct:
-yeast-temp : 
+final-gravity: 1.013
+final-brix: 6
+alcohol-pct: 4.2
+yeast-temp : 25
 yeast: Safale T-58
 ---
 
