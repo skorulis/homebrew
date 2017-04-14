@@ -6,18 +6,20 @@ number: 22
 style: Raspberry Cider 
 date:   2017-02-26
 brew-date: 2017-02-26
-bottle-date:
-brew-status : Fermenting
-status-num: 1
-original-gravity: 
-original-brix: 
-final-gravity:
-alcohol-pct:
+bottle-date: 2017-03-25
+dry-hop-date: 2017-03-19
+brew-status : Ready
+status-num: 3
+original-gravity: 1.053
+original-brix:  13
+final-brix: 5
+final-gravity: 1.007
+alcohol-pct: 6.0%
 yeast-temp : 
 yeast: Mangrove jack's M05
 ---
 
-A simple cider with some raspberries added for extra flavour. Also adding some dry hops to kick the aroma up
+A simple cider with some raspberries added for extra flavour. Also adding some dry hops to kick the aroma up.
 
 
 Grain Bill
@@ -29,6 +31,8 @@ Grain Bill
 Hop Schedule
 -------------
 
+* 50g frozen raspberries
+* 5g galaxy hops
 
 Method
 -------

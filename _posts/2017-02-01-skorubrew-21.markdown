@@ -5,16 +5,17 @@ title:  "Skorubrew #21"
 number: 21
 style: Belgian pale ale
 date:   2017-02-01
-brew-date: 
+brew-date: 2017-03-19
 bottle-date:
-brew-status : Planned
-status-num: 0
-original-gravity: 
-original-brix: 
+dry-hop-date: 2017-04-14
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.055
+original-brix: 13.5
 final-gravity:
 alcohol-pct:
-yeast-temp : 
-yeast: Mangrove jack's M41
+yeast-temp : 22
+yeast: Safale T-58
 ---
 
 Brewing a lighter beer good for warmer weather
@@ -30,6 +31,12 @@ Grain Bill
 Hop Schedule
 -------------
 
+* 2g mosaic @ 50 minutes
+* 2g mosaic @ 40 minutes
+* 2g mosaic @ 30 minutes
+* 2g mosaic @ 20 minutes
+* 2g mosaic @ 10 minutes
+* 5g mosaic dry hop
 
 Method
 -------
