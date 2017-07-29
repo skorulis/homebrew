@@ -8,14 +8,15 @@ date:   2017-02-01
 brew-date: 2017-03-19
 bottle-date: 2017-05-10
 dry-hop-date: 2017-04-14
-brew-status : Bottled
-status-num: 2
+brew-status : Ready
+status-num: 3
 original-gravity: 1.055
 original-brix: 13.5
 final-brix: 7.2
 final-gravity: 1.014
-alcohol-pct: 5.5%
+alcohol-pct: 5.5
 yeast-temp : 22
+total-bottles: 11
 yeast: Safale T-58
 ---
 
