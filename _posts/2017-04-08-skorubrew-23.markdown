@@ -6,7 +6,7 @@ number: 19
 style: Red Rye IPA
 date:   2017-04-08
 brew-date: 2017-04-08
-dry-hop-date: 
+dry-hop-date: 2017-05-13
 bottle-date: 
 brew-status : Fermenting
 status-num: 1
@@ -35,11 +35,11 @@ Grain Bill
 Hop Schedule
 -------------
 
-* 2g Mosaic @ 50 minutes *
-* 2g Mosaic @ 40 minutes *
-* 2g Mosaic @ 30 minutes *
-* 2g Mosaic @ 20 minutes * 
-* 2g Mosaic @ 10 minutes *
+* 2g Mosaic @ 50 minutes
+* 2g Mosaic @ 40 minutes
+* 2g Mosaic @ 30 minutes
+* 2g Mosaic @ 20 minutes 
+* 2g Mosaic @ 10 minutes
 * 2g Mosaic @ flameout
 * 10g Galaxy dry hop
 
