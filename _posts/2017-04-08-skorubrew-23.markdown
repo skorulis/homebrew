@@ -7,7 +7,7 @@ style: Red Rye IPA
 date:   2017-04-08
 brew-date: 2017-04-08
 dry-hop-date: 2017-05-13
-bottle-date: 
+bottle-date: 2017-05-20
 brew-status : Ready
 status-num: 3
 original-gravity: 1.068 
