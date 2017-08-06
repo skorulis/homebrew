@@ -1,0 +1,54 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #24"
+number: 24
+style: Coconut milk stout
+date:   2017-05-22
+brew-date: 2017-05-22
+dry-hop-date: 2017-08-06
+bottle-date: 
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.061
+original-brix: 15
+final-gravity: 
+final-brix: 
+alcohol-pct: 
+yeast-temp : 23 
+mash-temp: 69
+total-bottles: 
+yeast: US-05
+---
+
+Trying to make a slightly lighter stout with more coconut than last time to see if I can really get the flavour to come through
+
+
+Grain Bill
+-----
+* 900g maris otter
+* Chocolate malt 100g
+* Toffee malt 100g
+* Lactose 150g
+* Coconut flakes 40g
+
+
+Hop Schedule
+-------------
+
+* 5g Willamette @ 50 minutes
+* 5g Mosaic @ 10 minutes
+* 10g Mosaic dry hop
+
+Method
+-------
+
+* Mash at 70C for 1 hour
+* Batch sparge with water 70-75C
+* Bring to boil and leave for 1 hour
+
+
+Updates
+-------
+
+

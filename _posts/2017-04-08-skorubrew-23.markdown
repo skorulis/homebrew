@@ -2,21 +2,21 @@
 layout: brew
 categories: brew
 title:  "Skorubrew #23"
-number: 19
+number: 23
 style: Red Rye IPA
 date:   2017-04-08
 brew-date: 2017-04-08
 dry-hop-date: 2017-05-13
 bottle-date: 
-brew-status : Fermenting
-status-num: 1
+brew-status : Ready
+status-num: 3
 original-gravity: 1.068 
 original-brix: 16.5
 final-gravity: 
 final-brix: 
 alcohol-pct: 
 yeast-temp : 24 
-total-bottles: 
+total-bottles: 11
 yeast: US-05
 ---
 
