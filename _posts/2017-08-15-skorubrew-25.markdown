@@ -27,7 +27,7 @@ Going to make a standard pale ale using amarillo hops.
 Grain Bill
 -----
 * 900g maris otter
-* Toffee malt 100g
+* Toffee malt 200g
 * Lactose 100g
 
 
