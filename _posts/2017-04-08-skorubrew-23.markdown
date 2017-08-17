@@ -3,7 +3,7 @@ layout: brew
 categories: brew
 title:  "Skorubrew #23"
 number: 23
-style: Red Rye IPA
+style: Smoked Red Ale
 date:   2017-04-08
 brew-date: 2017-04-08
 dry-hop-date: 2017-05-13

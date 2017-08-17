@@ -7,17 +7,17 @@ style: Coconut milk stout
 date:   2017-05-22
 brew-date: 2017-05-22
 dry-hop-date: 2017-08-06
-bottle-date: 
-brew-status : Fermenting
-status-num: 1
+bottle-date: 2017-08-17
+brew-status : Bottled
+status-num: 2
 original-gravity: 1.061
 original-brix: 15
-final-gravity: 
-final-brix: 
-alcohol-pct: 
+final-gravity: 1.019 
+final-brix: 9
+alcohol-pct: 5.8
 yeast-temp : 23 
 mash-temp: 69
-total-bottles: 
+total-bottles: 12
 yeast: US-05
 ---
 
