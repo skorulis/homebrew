@@ -5,17 +5,17 @@ title:  "Skorubrew #25"
 number: 25
 style: Pale ale
 date:   2017-08-15
-brew-date: 
+brew-date: 2017-08-19
 dry-hop-date: 
 bottle-date: 
-brew-status : Planned
-status-num: 0
-original-gravity: 
-original-brix: 
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.057 
+original-brix: 14
 final-gravity: 
 final-brix: 
 alcohol-pct: 
-yeast-temp :  
+yeast-temp : 19 
 mash-temp: 69
 total-bottles: 
 yeast: US-05
