@@ -5,17 +5,17 @@ title:  "Skorubrew #26"
 number: 26
 style: Rice ale
 date:   2017-08-15
-brew-date: 
+brew-date: 2017-08-24
 dry-hop-date: 
 bottle-date: 
-brew-status : Planned
-status-num: 0
-original-gravity: 
-original-brix: 
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.048
+original-brix: 12
 final-gravity: 
 final-brix: 
 alcohol-pct: 
-yeast-temp :  
+yeast-temp : 18
 mash-temp: 69
 total-bottles: 
 yeast: US-05
@@ -28,7 +28,7 @@ Grain Bill
 -----
 * 900g maris otter
 * 200g acidulated malt
-* 200g rice
+* 150g uncooked rice
 
 
 Hop Schedule

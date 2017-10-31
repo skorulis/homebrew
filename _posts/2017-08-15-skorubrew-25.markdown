@@ -6,18 +6,18 @@ number: 25
 style: Pale ale
 date:   2017-08-15
 brew-date: 2017-08-19
-dry-hop-date: 
-bottle-date: 
-brew-status : Fermenting
+dry-hop-date: 2017-10-11
+bottle-date: 2017-10-31
+brew-status : Bottled
 status-num: 1
 original-gravity: 1.057 
 original-brix: 14
-final-gravity: 
-final-brix: 
-alcohol-pct: 
+final-gravity: 1.015
+final-brix: 7.5
+alcohol-pct: 5.7
 yeast-temp : 19 
 mash-temp: 69
-total-bottles: 
+total-bottles: 12
 yeast: US-05
 ---
 
