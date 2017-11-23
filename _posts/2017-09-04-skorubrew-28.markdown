@@ -1,0 +1,44 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #28"
+number: 28
+style: IPA
+date:   2017-09-04
+brew-date: 
+dry-hop-date: 
+bottle-date: 
+brew-status : Planned
+status-num: 0
+original-gravity: 
+original-brix: 
+final-gravity: 
+final-brix: 
+alcohol-pct: 
+yeast-temp : 
+mash-temp: 69
+total-bottles: 
+yeast: 
+---
+
+Going for a basic IPA
+
+Grain Bill
+-----
+
+
+Hop Schedule
+-------------
+
+
+Method
+-------
+
+* Batch sparge with water 70C
+* Bring to boil and leave for 1 hour
+
+
+Updates
+-------
+
+

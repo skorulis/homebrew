@@ -6,7 +6,7 @@ number: 26
 style: Rice ale
 date:   2017-08-15
 brew-date: 2017-08-24
-dry-hop-date: 
+dry-hop-date: 2017-11-23
 bottle-date: 
 brew-status : Fermenting
 status-num: 1
