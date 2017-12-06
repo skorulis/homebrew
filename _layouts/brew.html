@@ -70,8 +70,14 @@ layout: default
     {{ content }}
   </div>
 
+{% if page.status-num >= 2 %}
+
+  <a href="http://beerlabels.skorulis.com?format=4x3&font=Droid+Sans&headerImage=on&style={{page.style}}&abv={{page.alcohol-pct}}&batch={{page.number}}&date={{page.bottle-date}}">Generate labels </a>
+{% endif %}
+
 {% if page.status-num >= 2 and page.missing-bottle-photo != 1 %}
     <img alt="Bottled" src="{{ site.baseurl }}/assets/bottled-{{page.number}}.jpg" onError="style.display = 'none';">
+
 {% endif %}
 
 {% if page.status-num >= 3 and page.missing-glass-photo != 1 %}
