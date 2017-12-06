@@ -7,17 +7,17 @@ style: Rice ale
 date:   2017-08-15
 brew-date: 2017-08-24
 dry-hop-date: 2017-11-23
-bottle-date: 
-brew-status : Fermenting
-status-num: 1
+bottle-date: 2017-12-05
+brew-status : Bottled
+status-num: 2
 original-gravity: 1.048
 original-brix: 12
-final-gravity: 
-final-brix: 
-alcohol-pct: 
+final-gravity: 1.018 
+final-brix: 8
+alcohol-pct: 4.7
 yeast-temp : 18
 mash-temp: 69
-total-bottles: 
+total-bottles: 12
 yeast: US-05
 ---
 

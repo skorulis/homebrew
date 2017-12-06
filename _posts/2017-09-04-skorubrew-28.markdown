@@ -3,7 +3,7 @@ layout: brew
 categories: brew
 title:  "Skorubrew #28"
 number: 28
-style: IPA
+style: Red IPA
 date:   2017-09-04
 brew-date: 
 dry-hop-date: 
@@ -25,6 +25,11 @@ Going for a basic IPA
 
 Grain Bill
 -----
+
+900g pilsner malt
+100g aurora malt
+100g brown malt
+100g acid malt
 
 
 Hop Schedule
