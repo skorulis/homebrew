@@ -17,7 +17,7 @@ final-gravity: 1.007
 alcohol-pct: 6.0%
 yeast-temp : 
 yeast: Mangrove jack's M05
-missing-bottle-photo: 1
+missing-glass-photo: 1
 ---
 
 A simple cider with some raspberries added for extra flavour. Also adding some dry hops to kick the aroma up.
