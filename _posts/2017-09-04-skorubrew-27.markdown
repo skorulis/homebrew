@@ -18,7 +18,7 @@ alcohol-pct:
 yeast-temp : 
 mash-temp: 69
 total-bottles: 
-yeast: 
+yeast: US-05
 ---
 
 Trying to build something full of hop flavours.
@@ -35,6 +35,10 @@ Grain Bill
 
 Hop Schedule
 -------------
+
+* 6g amarillo spread over 10 minute intervals starting at 60 minutes
+* 6g mosaic spread over 10 minute intervals starting at 60 minutes
+* 10g amarillo dry hop
 
 
 Method

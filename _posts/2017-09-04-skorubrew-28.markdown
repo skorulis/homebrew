@@ -18,7 +18,7 @@ alcohol-pct:
 yeast-temp : 
 mash-temp: 69
 total-bottles: 
-yeast: 
+yeast: US-05
 ---
 
 Going for a basic IPA
@@ -34,6 +34,10 @@ Grain Bill
 
 Hop Schedule
 -------------
+
+* 1g mosaic @ 60 minutes
+* 2g mosaic @ 30 minutes
+* 2g amarillo @ 10 minutes
 
 
 Method
