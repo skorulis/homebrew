@@ -5,17 +5,17 @@ title:  "Skorubrew #27"
 number: 27
 style: Hop Bomb
 date:   2017-09-04
-brew-date: 
+brew-date: 2017-12-09
 dry-hop-date: 
 bottle-date: 
-brew-status : Planned
-status-num: 0
-original-gravity: 
-original-brix: 
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.056
+original-brix: 13.8 
 final-gravity: 
 final-brix: 
 alcohol-pct: 
-yeast-temp : 
+yeast-temp : 20
 mash-temp: 69
 total-bottles: 
 yeast: US-05
@@ -36,8 +36,8 @@ Grain Bill
 Hop Schedule
 -------------
 
-* 6g amarillo spread over 10 minute intervals starting at 60 minutes
-* 6g mosaic spread over 10 minute intervals starting at 60 minutes
+* 5g amarillo spread over 10 minute intervals starting at 60 minutes
+* 8g mosaic spread over 10 minute intervals starting at 60 minutes
 * 10g amarillo dry hop
 
 
@@ -51,4 +51,5 @@ Method
 Updates
 -------
 
+* Had just a little mosaic left in the packet so I adjusted the hop quantities a little bit.
 
