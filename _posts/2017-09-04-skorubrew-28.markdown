@@ -3,25 +3,25 @@ layout: brew
 categories: brew
 title:  "Skorubrew #28"
 number: 28
-style: Red IPA
+style: Brown IPA
 date:   2017-09-04
-brew-date: 
-dry-hop-date: 
-bottle-date: 
-brew-status : Planned
-status-num: 0
-original-gravity: 
-original-brix: 
-final-gravity: 
-final-brix: 
-alcohol-pct: 
-yeast-temp : 
+brew-date: 2017-12-15
+dry-hop-date: 2018-01-04
+bottle-date: 2018-01-15
+brew-status : Bottled
+status-num: 2
+original-gravity: 1.061 
+original-brix: 15
+final-gravity: 1.019
+final-brix: 9
+alcohol-pct: 5.8
+yeast-temp : 17
 mash-temp: 69
-total-bottles: 
+total-bottles: 12
 yeast: US-05
 ---
 
-Going for a basic IPA
+Going for a basic IPA but with some brown malt
 
 Grain Bill
 -----
@@ -35,9 +35,10 @@ Grain Bill
 Hop Schedule
 -------------
 
-* 1g mosaic @ 60 minutes
-* 2g mosaic @ 30 minutes
-* 2g amarillo @ 10 minutes
+* 2g amarillo @ 60 minutes
+* 3g amarillo @ 30 minutes
+* 3g amarillo @ 10 minutes
+* 5g amarillo dry hop
 
 
 Method
