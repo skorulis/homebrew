@@ -1,0 +1,46 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #29"
+number: 29
+style: Lemongrass pale ale
+date:   2018-02-20
+brew-date:
+dry-hop-date:
+bottle-date:
+brew-status : Planned
+status-num: 0
+original-gravity:
+original-brix:
+final-gravity:
+final-brix:
+alcohol-pct:
+yeast-temp :
+mash-temp:
+total-bottles:
+yeast:
+---
+
+Experimenting with adding some lemongrass to a fairly standard pale ale.
+
+Grain Bill
+-----
+
+
+
+Hop Schedule
+-------------
+
+
+
+Method
+-------
+
+* Batch sparge with water 70C
+* Bring to boil and leave for 1 hour
+
+
+Updates
+-------
+
+
