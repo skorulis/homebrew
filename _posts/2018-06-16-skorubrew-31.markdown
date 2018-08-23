@@ -1,0 +1,57 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #31"
+number: 31
+style: NEIPA
+date:   2018-06-16
+brew-date: 2018-06-17
+dry-hop-date: 2018-07-18
+bottle-date: 2018-08-18
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.070
+original-brix: 17
+final-gravity: 1.026
+final-brix: 10.5
+alcohol-pct: 5.8
+yeast-temp : 
+mash-temp: 68
+total-bottles: 11
+yeast: US-05
+---
+
+After the success of my pale ale trying for a more punchy IPA.
+
+Grain Bill
+-----
+
+* Maris otter Malt 1.2kg
+* Quick oats 100g
+* Lactose 75g
+
+
+Hop Schedule
+-------------
+* 2g citra @50 minutes 
+* 2g citra @40 minutes 
+* 2g citra @30 minutes
+* 2g citra @20 minutes
+* 2g citra @10 minutes
+* 5g citra @ flameout
+* 5g saphir @ flameout
+* 5g citra dry hop
+* 5g saphir dry hop
+
+
+Method
+-------
+
+* Batch sparge with water 70C
+* Bring to boil and leave for 1 hour
+
+
+Updates
+-------
+
+* Probably left this with the dry hops in for too long. I took them out in preparation for bottling but didn't get around to it for another week
