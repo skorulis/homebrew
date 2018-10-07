@@ -1,0 +1,39 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #32"
+number: 32
+style: Pale ale
+date:   2018-10-07
+brew-date: 2018-10-07
+dry-hop-date: 
+bottle-date: 
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.063
+original-brix: 15.2
+final-gravity: 
+final-brix: 
+alcohol-pct: 
+yeast-temp : 
+mash-temp: 68
+total-bottles: 
+yeast: US-05
+---
+
+Just doing a simple pale ale.
+
+Grain Bill
+-----
+
+* Maris otter Malt 900g
+* Toffee malt 300g
+
+
+Hop Schedule
+-------------
+* 1g citra @ 30 minutes
+* 2g citra @ 20 minutes
+* 2g citra @ 10 minutes
+* 3g citra @ flameout
+
