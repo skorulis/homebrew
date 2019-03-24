@@ -1,0 +1,40 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #33"
+number: 33
+style: Dunkelweizen
+date:   2019-03-10
+brew-date: 2019-03-10
+dry-hop-date: 
+bottle-date: 
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.064
+original-brix: 15.4
+final-gravity:  
+final-brix: 
+alcohol-pct: 
+yeast-temp : 
+mash-temp: 68
+total-bottles: 
+yeast: US-05
+---
+
+Trying out a different style with a bit of wheat.
+
+Grain Bill
+-----
+
+* Munich Malt 500g
+* Wheat 500g
+* Caramalt 80L 100g
+* Oats 100g
+
+
+Hop Schedule
+-------------
+* 2g willamette @ 30 minutes
+* 2g willamette @ 20 minutes
+* 2g willamette @ 10 minutes
+
