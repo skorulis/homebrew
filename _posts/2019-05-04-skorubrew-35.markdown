@@ -1,0 +1,45 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #35"
+number: 35
+style: Citra pale ale
+date:   2019-05-02
+brew-date: 2019-05-04
+dry-hop-date:  
+bottle-date: 
+brew-status : Fermenting
+status-num: 1
+original-gravity: 1.065
+original-brix: 16
+final-gravity:   
+final-brix: 
+alcohol-pct: 
+yeast-temp : 
+mash-temp: 68
+total-bottles:  
+yeast: US-05
+caps:  
+---
+
+Making another smoked red ale set for the wedding.
+
+Grain Bill
+-----
+
+* 2 row 1kg 
+* crystal 20L 100g 
+* Acid malt 100g
+
+Hop Schedule
+-------------
+* 1g Citra @ 40 minutes
+* 2g Citra @ 30 minutes
+* 2g Citra @ 20 minutes
+* 2g Citra @ 10 minutes
+* 3g Citra @ flameout
+
+Notes
+------
+
+
