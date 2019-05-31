@@ -1,0 +1,42 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #36"
+number: 36
+style: Rice ale
+date:   2019-06-01
+brew-date: 
+dry-hop-date:  
+bottle-date: 
+brew-status : Planned
+status-num: 0
+original-gravity: 
+original-brix: 
+final-gravity:   
+final-brix: 
+alcohol-pct: 
+yeast-temp : 
+mash-temp: 68
+total-bottles:  
+yeast: US-05
+caps:  
+---
+
+Making another smoked red ale set for the wedding.
+
+Grain Bill
+-----
+
+* 900g maris otter
+* 200g rice
+
+Hop Schedule
+-------------
+* 2g Citra @ 30 minutes
+* 2g Citra @ 20 minutes
+* 2g Citra @ 10 minutes
+
+Notes
+------
+
+

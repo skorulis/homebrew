@@ -6,20 +6,20 @@ number: 34
 style: Smoked Red ale
 date:   2019-04-21
 brew-date: 2019-04-21
-dry-hop-date:  
-bottle-date: 
-brew-status : Fermenting
-status-num: 1
+dry-hop-date:  2019-05-26
+bottle-date: 2019-05-29
+brew-status : Bottled
+status-num: 2
 original-gravity: 1.067
 original-brix: 16.5
-final-gravity:   
-final-brix: 
-alcohol-pct: 
+final-gravity:  1.023 
+final-brix: 9.8
+alcohol-pct: 5.9
 yeast-temp : 
 mash-temp: 68
-total-bottles:  
+total-bottles:  10
 yeast: US-05
-caps:  
+caps:  Red caps with black smudge
 ---
 
 Making another smoked red ale set for the wedding.
@@ -41,6 +41,8 @@ Hop Schedule
 * 2g Amarillo @ 20 minutes 
 * 2g Amarillo @ 10 minutes
 * 2g Amarillo @ flameout
+
+* 4g willamette dry hop
 
 Notes
 ------

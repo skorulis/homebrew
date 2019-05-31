@@ -1,0 +1,41 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #37"
+number: 37
+style: Brown ale
+date:   2019-06-01
+brew-date: 
+dry-hop-date:  
+bottle-date: 
+brew-status : Planned
+status-num: 0
+original-gravity: 
+original-brix: 
+final-gravity:   
+final-brix: 
+alcohol-pct: 
+yeast-temp : 
+mash-temp: 68
+total-bottles:  
+yeast: US-05
+caps:  
+---
+
+Making another smoked red ale set for the wedding.
+
+Grain Bill
+-----
+
+* 900g maris otter
+* 100g aromatic malt
+* 100g brown malt
+* 100g malted oats
+
+Hop Schedule
+-------------
+
+Notes
+------
+
+

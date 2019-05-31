@@ -8,8 +8,8 @@ date:   2018-10-07
 brew-date: 2018-10-07
 dry-hop-date: 2018-12-04
 bottle-date: 2018-12-09
-brew-status : Bottled
-status-num: 2
+brew-status : Ready
+status-num: 3
 original-gravity: 1.063
 original-brix: 15.2
 final-gravity: 1.015 
