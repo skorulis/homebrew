@@ -5,24 +5,24 @@ title:  "Skorubrew #37"
 number: 37
 style: Brown ale
 date:   2019-06-01
-brew-date: 
-dry-hop-date:  
-bottle-date: 
-brew-status : Planned
-status-num: 0
-original-gravity: 
-original-brix: 
-final-gravity:   
-final-brix: 
-alcohol-pct: 
+brew-date: 2019-06-10
+dry-hop-date:  2019-07-28
+bottle-date: 2019-10-01
+brew-status : Bottled
+status-num: 2
+original-gravity: 1.051
+original-brix: 12.8
+final-gravity:   1.009
+final-brix: 6.2
+alcohol-pct: 5.7
 yeast-temp : 
 mash-temp: 68
 total-bottles:  
 yeast: US-05
-caps:  
+caps:  Gold with red
 ---
 
-Making another smoked red ale set for the wedding.
+Having a go at a nutty brown ale
 
 Grain Bill
 -----
@@ -35,7 +35,12 @@ Grain Bill
 Hop Schedule
 -------------
 
+* 2g East kent goldings @ 30
+* 2g East kent goldings @ 20
+* 2g East kent goldings @ 10
+* 4g east kent goldings dry hop
+
 Notes
 ------
 
-
+* Does not smell right at bottling time. Could have been left too long after dry hopping

@@ -6,20 +6,20 @@ number: 35
 style: Citra pale ale
 date:   2019-05-02
 brew-date: 2019-05-04
-dry-hop-date:  
-bottle-date: 
-brew-status : Fermenting
-status-num: 1
+dry-hop-date:  2019-06-02
+bottle-date: 2019-06-04
+brew-status : Bottled
+status-num: 2
 original-gravity: 1.065
 original-brix: 16
-final-gravity:   
-final-brix: 
-alcohol-pct: 
+final-gravity:   1.022
+final-brix: 9.5
+alcohol-pct: 5.7
 yeast-temp : 
 mash-temp: 68
 total-bottles:  
 yeast: US-05
-caps:  
+caps:  Gold with white
 ---
 
 Making another smoked red ale set for the wedding.
@@ -38,6 +38,9 @@ Hop Schedule
 * 2g Citra @ 20 minutes
 * 2g Citra @ 10 minutes
 * 3g Citra @ flameout
+
+* 2g Saphir dry hop
+* 2g willamette dry hop
 
 Notes
 ------
