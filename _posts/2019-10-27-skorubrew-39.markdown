@@ -1,8 +1,8 @@
 ---
 layout: brew
 categories: brew
-title:  "Skorubrew #38"
-number: 38
+title:  "Skorubrew #39"
+number: 39
 style: Rye ale
 date:   2019-10-27
 brew-date: 2019-10-27
@@ -34,9 +34,10 @@ Grain Bill
 Hop Schedule
 -------------
 
-* 3g at 30 minutes
-* 3g at 20 minutes
-* 3g at 10 minutes
+* 3g Saphir at 30 minutes
+* 3g Saphir at 20 minutes
+* 3g Saphir at 10 minutes
+* 10g Saphir dry hop
 
 
 Notes
