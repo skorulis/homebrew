@@ -1,0 +1,45 @@
+---
+layout: brew
+categories: brew
+title:  "Skorubrew #38"
+number: 38
+style: Rye ale
+date:   2019-10-27
+brew-date: 2019-10-27
+dry-hop-date:  2019-11-11
+bottle-date: 
+brew-status : Fermenting
+status-num: 2
+original-gravity: 1.040
+original-brix:  10
+final-gravity:  
+final-brix: 
+alcohol-pct: 
+yeast-temp : 
+mash-temp: 68
+total-bottles:  
+yeast: US-05
+caps:  
+---
+
+
+
+Grain Bill
+-----
+
+* 900g 2 row
+* 100g rye
+* 200g toffee malt
+
+Hop Schedule
+-------------
+
+* 3g at 30 minutes
+* 3g at 20 minutes
+* 3g at 10 minutes
+
+
+Notes
+------
+
+* Full volume mash
