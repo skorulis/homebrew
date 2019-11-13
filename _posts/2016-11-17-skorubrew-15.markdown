@@ -7,8 +7,8 @@ style: Coconut porter
 date: 2016-11-17
 brew-date: 2016-11-19
 bottle-date: 2016-12-12
-brew-status : Ready
-status-num: 3
+brew-status : Finished
+status-num: 4
 original-gravity: 1.081
 original-brix: 19.5
 final-brix: 12
