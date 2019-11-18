@@ -3,23 +3,23 @@ layout: brew
 categories: brew
 title:  "Skorubrew #39"
 number: 39
-style: Rye ale
+style: Mid rye ale
 date:   2019-10-27
 brew-date: 2019-10-27
 dry-hop-date:  2019-11-11
-bottle-date: 
-brew-status : Fermenting
-status-num: 2
+bottle-date: 2019-11-14
+brew-status : Bottled
+status-num: 3
 original-gravity: 1.040
 original-brix:  10
-final-gravity:  
-final-brix: 
-alcohol-pct: 
+final-gravity:  1.027
+final-brix: 8
+alcohol-pct: 2.0
 yeast-temp : 
 mash-temp: 68
-total-bottles:  
+total-bottles: 11  
 yeast: US-05
-caps:  
+caps:  green
 ---
 
 
